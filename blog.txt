@@ -1,0 +1,76 @@
+I Feel Good
+May 28, 2026, 4:33 PM
+I feel very good right now. I feel incredibly competent that I can do the work that I need to do. I feel inspired to relearn the context I've lost at work to make everything make sense again. It probably helps that Kevin re-explained everything to intern and how it all works together. The intern inspires me to work hard again; to prove my keep. It also helps that I've written this blog. I've written quite a bit today. I've definitely learned some things and have a path to learning more. Today hasn't been a complete waste of time. And there's so much more left to do.
+
+Tyler Cowen on India
+May 28, 2026, 4:16 PM
+A collection of all of Tyler Cowen's works on India. Organized into a website for people to browse.
+
+
+Hanson on Searching vs. Chasing
+May 28, 2026, 1:21 PM
+https://www.overcomingbias.com/p/chase-your-readinghtml
+
+Hanson differentiates reading that is searching versus reading that is chasing. When you're searching, you're looking for something to chase. Your mind is open and you're trying to find something to dive deep on. While useful, searching mode is closer to exploration - you're sampling shallowly to find something. Most people read in searching mode, and it doesn't benefit their learning. In chasing mode, by contrast, you're actively trying to answer a question, solve a problem, or solve a puzzle. You know exactly what you're looking for and how to find it. In chasing mode, you retain more information because you naturally have a scaffolding to apply it to. In searching mode, you're more likely to uncritically take whatever a source tells you. In chasing mode, you more critically engage with what you're reading and don't just assume that it's true.
+
+Cowen and Chapman on Subcultures
+May 28, 2026, 12:27 PM
+David Chapman writes about "Geeks, Mops, and Subcultures"
+
+David proposes that, prior to the year 2000, there were subcultures. Subcultures are started by collections of creators who created something new. They work with each other, criticize, and refine the new thing, making it better and better. Importantly, they all create and feed off of each other. This can be called a "scene". If a scene grows large enough, it attracts fanatics, who don't create, but support the creators and learn everything they can about the new thing. They're obsessed with it. These groups together are geeks. From here, if the new thing is accessible enough, it will eventually attract mops. Mops are normal people. Muggles. They don't contribute much to the thing at all - they're just consume it. They're not entirely negative, as mops are necessary for something to truly grow big. However, as the amount of mops grows, they become more and more of an administrative headache for fanatics who effectively provide free labor and volunteer for the goodness of the new thing. Eventually, if this gets bad enough, a subculture will collapse. If a subculture doesn't collapse at this point however, it will attract the sociopaths.
+
+Sociopaths look, create, and act like creators just enough to fool mops. They know how to extract the most amount of capital out of something. They're not good enough to fool the geeks, but it doesn't matter, because the mops are where the majority of the money comes from. Sociopaths will absorb all the capital out of a subculture until there's nothing left and people move on.
+
+There are a couple ways for geeks to prevent this. They can manage mop ratios to make sure they never get too big and too much of a headache. This can be done through exclusion, charging people, etc. Limiting mops limits sociopaths because it's the mops that attract the sociopaths. The other way is by being slightly evil. Geeks can learn the ways of sociopaths to prevent themselves from ever becoming victim to them. They can shed some aspect of their artistic naivety to protect the new thing from interlopers.
+
+...
+
+I was drawn into this piece because I just finished listening to Patrick Collison interview Tyler Cowen. Parts of the interview are excerpted here:
+
+> COLLISON: And you’ve written several books about culture, but among them Creative Destruction, and this is, at least as I read it, on the face of it, a defense of the effects of globalization on culture, right? And that while globalization might cause a decrease in across-country cultural diversity, we shouldn’t look at it at some God’s eye view, objective level. We should instead be focused on the individual, the subjective, and the operative level of diversity.
+
+Here in San Francisco, we see the fruits of all that globalization, right? But you also say in the book, you do acknowledge the point, that there might be a decrease in total global cultural diversity as a consequence of globalization. If you think culture is so important and so underinvested in and so understudied, is it not too hasty to advocate for a force that’s producing a net reduction in the quantity of it in the world?
+
+COWEN: Well, there are multiple readings of a number of my books. And I would say, when you’re looking at the globalization of culture, we’ve engaged in a rather significant cashing-in exercise. Say you have a very small community, Inuit in Canada or artists in Bali, they’re very small in number. And until they’re in some way reached by larger, richer cultures they can trade with, in many instances, they’re not that creative. They have some tradition, but it’s not fully mobilized. Then there’s this intense cultural interchange, and it’s very fruitful. There’s a flowering, there’s more commercial sale. Top creators come to be, more genres are defined. There’s more diversity within the Balinese world or within Inuit sculpture, say.
+
+But eventually, that peters out as the smaller communities are absorbed by larger ones. Over the last century, we’ve done an unprecedented amount of this cashing in, by having smaller cultures obliterated. Now, one way to look at it is, well, they’re there and if you never touch them, that’s a shame. Is there an optimal rate of cashing in? I’m not sure that’s a variable you can control. But I think along some critical dimensions, our next century will be less creative than the last because we’ve cashed in on such a large number of small groups. And I worry about this with Ireland, too, a place you’re familiar with. The Irish literary tradition flowers, arguably, in the first half of the 20th century.
+
+COLLISON: Right.
+
+COWEN: And I worry now that people in Ireland hear too much American English, too much English English, and that style of writing, talking, joking, limericks, is becoming somewhat less distinct. Still many wonderful writers from Ireland, but again, it’s like an optimal stock depletion problem, and maybe we’ve pressed on the button a little too hard.
+
+Cowen and Collison here are talking about the nature of globalized capitalism and the connection of the Internet to dilute things. By making us more and more connected and encouraging global diversity, ironically the world becomes more homogenous. Subcultures and small groups of people, religions, and languages get diluted into the mainstream and we lose diversity. You could argue that the mechanism of this dilution is the process laid out via Chapman above. However, that's not the only mechanism. Not all subcultures are entirely artificial like that. Some are actual ethnicities and tribes like the Inuit that have their own music, cuisine, religion, governance, literature, language, etc. The question is what we can do about it. The problem is that trying to create barriers to this reduces overall wellbeing, but we also don't want to lose our cultural diversity.
+
+Tyler doesn't think there's much that can be done about this at the societal level. It has to start with individuals being quirkier, not just consuming what's at the top of their Netflix or social feeds, but seeking out more niche content and cultures and supporting them. This might sound like advocacy to do exactly what Chapman is against, but both Chapman and Cowen would likely agree that it's a balancing act. Without enough attention, a subculture will eventually fizzle out on its own without people to support and reproduce it, if only because the original creators are human and will die off eventually. But you also can't exploit it *too much*, otherwise you get the same amount. Cultures are like natural resources, ores, or oil - society has to extract them to be wealthier, but we also have to replenish them to avoid exhaustion.
+
+Links to Relevant AI Conversations:
+- https://www.perplexity.ai/search/e0483396-c89d-453d-95f5-b91f329e27b2?sm=d
+- https://chatgpt.com/c/6a187fe4-a2e0-83ea-8b06-8017451e1f95
+- https://claude.ai/chat/121a416b-6a2e-421a-baef-7e435e0ca537
+
+Questions I'm Thinking About
+May 28, 2026, 11:00 AM
+1. Everything about India. What is this country? What's happened/happening there? What does India need to do to set itself on a similar trajectory to nations like China? Can India even pursue a similar policy, or does its development story have to be different? Answering these questions means learning the basics - what are the history, politics, languages, religion, culture, and economy of India today?
+2. Robotics. My very first introduction to programming was a robotics class in middle school. It was an elective called Industrial Tech that taught a variety of skills. It's surprising that my programming journey didn't start there; that wouldn't come until high school. Following the r/robotics wiki, I have a PDF of The Robotics Primer and will be sharing notes on Twitter and more substantive writings here.
+
+Britain Wants to Brenter
+May 28, 2026, 8:30 AM
+With commentary from Richard Hanania
+> In the UK, 58% believe Brexit was wrong, compared to 29% in support. An overwhelming majority wants to go back to free travel within Europe. What a great example Brexit was of the destructive and irrational nature of populism.
+
+Should Society Be More Religious?
+May 28, 2026, 8:22 AM
+For the record, I'm agnostic. There are debates on whether a spiritual revival is occurring in the United States. I personally am not convinced. However, I also wonder about the effect broad secularization has had on society and whether it's positive. It's cliche in urbanist circles to point out that churches are some of the few remaining third spaces. More and more aspects of society have taken on religious character in recent years, from political movements, to brands, to celebrity followings, and obviously wokeism.
+
+The fertility crisis is top of mind for most people, and many of the most fertile developed countries on Earth are religious. Religiosity doesn't have to come at the cost of social and civil rights; Israel has some of the most progressive LGTBQ policies in the Middle East. Same-sex marriage is illegal, but same-sex couples married abroad (including via telephony) are recognized and full legalization has broad majority support. Women can serve in the IDF and work corporate roles that everyone else. There are wage disparities, but that's probably an unavoidable consequence of higher fertility. They've beaten the US to the punch at having a female head of state, all the way back with Golda Meir.
+
+Some might point out that higher fertility is also correlated with being at war, which Israel certainly is, but that would imply that a solution to the Israeli-Palestinian conflict would decrease Israeli fertility, and I don't know if I believe that. I'd assume the experience of the Holocaust would lead Jewish families to emphasize having children more, but I don't know enough to say for sure. Send me an email!
+
+May 27, 2026 2:59 PM
+The biggest source of my depression right now is a fear of wasting my life. As far as science can tell, this existence is the only one we get. I'm agnostic on the religious question of an afterlife. Even if the religions are correct, how you live *this* life determines what that afterlife looks like. So either way, I'm stuck here. I'm almost 29, engaged to be married, gainfully employed, college-educated, and financially stable. It doesn't make sense why I'm so depressed or anxious or hate the way I am as much as I do. I go to bed every night feeling like I've burned a day of my life with nothing to show for it. I hate closing my eyes because it only affirms the inevitable.
+
+This fear is pronounced because it's how I feel about my youth. I was a smart kid. Certainly smarter than I gave myself credit for. I could've gotten into a better university, done better in school, gotten a much more prestigious job. But I didn't because I wasted my time. I know the common retort - to ask for a different past is to throw away who I am now, but that's not always a clean salve. I'm afraid I'm going to wake up and be 80 years-old and realize I'm no better than I was when I was 28, but my time will have passed and I'll go screaming into oblivion knowing I've wasted the one life Creation gifted me with.
+
+But this future doesn't exist. The only thing that does exist is the eternal present. The only thing I can hope for is to be smarter in every moment than I was the moment previous. Be smarter every day than I was the day previous. Smarter every week. Smarter every month. Smarter every year. It doesn't matter if the things I create are imperfect or terrible, because I'll have created them. If they suck, I have time to make the next one better. It's only by creating things that I can leave a record and a trace. By creating things, I can have a record that I'm not the same. That I've grown. That I've learned.
+
+That's why I'm starting this blog. If I can contribute to it every day, even if I'm just reposting from other blogs like Marginal Revolution or Twitter, I'm still doing something. Because it's not for the audience or to maximize engagement. It's for me.
