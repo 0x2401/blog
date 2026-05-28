@@ -1,0 +1,40 @@
+Daily scratchpad 2026-05-20
+
+I don't know if I'm more interested in biology or physics. My interest in physics comes from its mathematical nature, quantum computing, aerospace engineering, and astrophysics. I also really like reading about the lives of physicists like Einstein, Dirac, Aaronson, Oppenheimer, and Feynman. Mathematical physics is really fascinating and translates closely to algorithms and computer science. They're adjacent to each other which makes them adjacent to my current skills. On the flip side, I've never taken a physics class, and don't really understand anything about physics. I've never really learned much about it. It's all aesthetic and vibes-based, rather than any passion for the topic.
+
+Biology is a subject I have more educational experience with. I took introductory bio in college and got an A in the class. I always did good on the assignments and especially the exams. I like reading about CRISPR and the life of people like Jennifer Doudna. It's legitimately interesting when I read about insulin or other biological molecules. Mixing life and technology is fascinating to me. Computational life and biotech and bioinformatics is interesting to me. I read In The Pipeline. The pharmaceutical business is interesting to me. However, I don't really like squeamish stuff.
+
+Ways to write when you don't have ideas:
+- Read other people's writing. Summarize it. Extract the ideas and rewrite it in your own words. Rewrite it several different ways - like normal, like Tolkien, like a Founding Father. Go through each claim and ask yourself if it's true or not, even obvious ones.
+- Read papers and summarize their key points. Trace their intellectual lineage.
+- Brain dump your thoughts
+- Write words that sound nice together. Look through the dictionary and try to find cute words that sound nice or with cool definitions. Use them in a sentence.
+- Don't write new stuff at all. Just collect interesting things with commentary.
+- Post a question. Don't put an answer - just a question.
+- Share reading notes (this means you have to read).
+- Learn something new every day and then write about it.
+- Commit blog posts. Write out short summaries of a commit - the problem that existed, how it solved it, and why it was solved this particular way.
+- Worldbuild. Write out interesting ideas for fictional characters, universes, companies, mythologies, and religions.
+- Critique other writing. Notetake on the structure of other writing - how does it flow? Why was it written the way it is? Why does that structure make it sound good? Analyze.
+- Try writing in longhand.
+- A topic is not a story.
+  https://www.theopennotebook.com/2012/07/11/sharpening-ideas/
+
+What are my reasons for writing?
+- To create something that will be left behind after I die. Not even for anyone to read. Just a record that I existed and I was here. An artifact of my existence. That I created and didn't just consume.
+- To meet people and make new friends.
+- Potential career opportunities.
+- I write to explore the universe and to make it legible.
+
+A book on why Donald Trump has been one of the worst Presidents in American history. There will be a tendency of history to minimize his faults. As contemporary of his presidency, I'm writing this to make sure history can never forget, whitewash, or deny the crimes and incompetency of his administration. I believe this is something our republic depends on if it's to persist.
+- America has had a lot of Presidents. Could Trump truly be the worst? What are some awful Presidents?
+
+Biology:
+The scientific study of life. A natural science, since it studies natural phenomena. Five fundamental themes of biology:
+- The cell as the basic unit of life.
+- Genes and heredity as the basis of inheritance
+- Evolution as the driver of biological diversity
+- Energy transformation for sustaining life processes
+- Homeostasis
+
+Chapter I. Cells, Genomes, and the Diversity of Life

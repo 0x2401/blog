@@ -1,0 +1,28 @@
+Daily Scratchpad 2026-05-21
+Molecular Biology of the Cell
+- Earth has life - organisms that consume energy to maintain their internal organization and make copies of themselves, passing down characteristics via genetic information in a process called heredity. This is one of the things that makes life unique compared to other processes like growing crystals. All living things are made out of cells.
+- Every complex lifeform originated from one cell, meaning that one cell held all of the genetic information needed for the organism, and duplicated into other cells holding the same complete copy of information.
+- Furthermore, all life on Earth has similar biochemistry and can process and understand each others' genetic code, implying that every form of life on Earth inherited this system from a common ancestor billions of years ago.
+- The molecule that stores genetic information is called deoxyribonucleic acid (DNA). On a molecular level, DNA is two strands of sugar-phosphate polymer backbone with a sequence of four possible nucleotide bases - adenine (A), guanine (G), cytosine (C), and thymine (T). These two strands are coiled around each other in a double helix. Each nucleotide on one strand always pairs with an opposite nucleotide on the other strand - adenine with thymine and guanine with cytosine. This means that having one strand of a DNA molecule gives enough information to construct its opposite strand.
+- This is how cells make copies of their genetic information via a process called template polymerization. One DNA strand is used as a template to create a complementary DNA strand. This process is performed on both strands of a DNA molecule, creating four strands in total - two new and two template. By pairing them together, you get two new complete DNA molecules that are exact copies of the original.
+- Cells can't just store their genetic information. It actually needs to be used for something. That something is the synthesis of proteins, which are biomolecules that perform some important function within an organism. The instructions for creating these proteins are encoded in the sequence of As, Gs, Cs, and Ts that make up the genetic code.
+- That sequence is used to create proteins via transcription and translation. Along with DNA, there is a similar single-stranded molecule called RNA, or ribonucleic acid. RNA has the same nucleotide sequence as DNA, with the exception of thymine replaced by uracil, so the potential letters are AGCU rather than AGCT. Transcription opens up the DNA molecule and creates a complementary RNA molecule off one of the strands; if the DNA molecule strand sequence is ACGAATCCGGT, the RNA molecule created will be UGCUUAGGCCA. The information of the DNA is copied or *transcribed* into a disposable information molecule that can be used for the next step of the process.
+- During translation, the newly-transcribed RNA molecule pairs with a part of the cell called a ribosome to construct the actual protein based on the instructions encoded.
+
+Work Notes:
+Card Service buyer email changes are ready for review. Initial development work is completed and waiting for review comments. Mostly 2 and 3-pointers in the Working column. Those changes should come through in the next 2-3 days, which means I can do preliminary code review on what's happening in these repos.
+- Brett working on responding to review comments on card_token changes. This change affects who is able to view Marqeta cards via the web interface, which is important. Also working on TBS MSAL bug fix.
+- Nick updating Terraform image on Red Rocks and TBS.
+- Dan working on AI SDLC testing infrastructure.
+- Nick working on staging deployments.
+
+- Nick's day looks like finishing staging deployments, and then working on the Terraform story. I don't know how far he is on that (standup will make this clear)
+- I don't know how far Dan is progressing on his BVS infrastructure work, but it's also an area I don't understand well (standup update will be useful)
+- I can work on the ECR lifecycle policy story, assuming there aren't too many questions on Card Service buyer email/phone changes.
+
+This spring has primarily been improvements on Card Service/Card Management and AI SDLC. General maintenance tech debt work and improving the testing infrastructure before we move BVS onto trunk-based development. Broadly speaking, we're fortifying and maintaining our software as we advance the org toward new AI development practices and figure out what the best methods are.
+
+I've blown another morning again. Doing stupid shit after standup. Didn't start on any work. Blown time that I can't get back reading about dumb shit. No lunch for me. Or I'll have to find a way to get it quickly. Maybe order restaurant for pickup. What do I do for the rest of the day to be productive? How do I salvage? Meditate. Go for a walk.
+
+Fishing in the ocean. Tranquility. Water waves. The peacefulness and humbleness of fishing as an act. Fishers clean and build their boats and their homes to survive. An unglamorous life of work, journey, danger, and commerce.
+

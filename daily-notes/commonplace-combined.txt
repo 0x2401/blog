@@ -1,0 +1,902 @@
+Why is it that the median age of organizations and corporations is what it is? How do you build long-term organizations like the Catholic Church, one of the oldest institutions in Western civilization, that has lived to see both the Dutch East India Company and Google.
+
+Novo Nordisk growth and parallels with export-led growth in Asia.
+
+The CEO of a company is just an employee. The CEO doesn't usually own the company. He's an employee hired by the board of directors and can be fired by the board of directors.
+
+In 1985, Steve Jobs got fired from Apple. He ended up starting a company called NeXT Computer. The company didn't do well, but Apple also started going to shit, and NeXT ended up getting bought by Apple to rehire Steve Jobs to basically save the company. A lot of the technology that was developed at NeXT ended up being foundational for MacOS and the iPhone. And so, it's not the case anymore, but for a long time when you would program iPhone apps, there was a lot of names and things that started with "ns".
+
+Genetic information stored in DNA is transcribed into mRNA as a blueprint for protein production. The mRNA is then translated by ribosomes into the actual amino acid protein sequence. When a gene is perturbed, the change flows down to protein expression, resulting in a change in the organism's phenotype. In plain English, altering which genes exist and are expressed in an organism changes its observable characteristics.
+
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats)
+Something is clustered.
+These clusters are have regular distances between them.
+The clusters are relatively short.
+They're palindromic (the same forward and backward)
+They repeat (throughout a genome?)
+
+Originally identified in prokaryotes (single-celled organisms lacking a nucleus or membrane-bound organelles) as an adaptive immune system mechanism for protection against viral DNA. Bacteria store past viral DNA in CRISPR arrays and use Cas proteins to cleave matching DNA upon reinfection.
+- A genetic blacklist searching for DNA matches to cleave (destroy) via Cas proteins.
+Conversion of system into programmable gene-editing tool by Jinek, Charpentier, Doudna, and colleagues (how?)
+
+CRISPR Provides Acquired Resistance Against Viruses in Prokaryotes
+Bacteriophages (viruses for bacteria)
+Bacteriophages are a natural and abundant threat to bacteria, requiring them to develop defense mechanisms.
+
+The Next Several Hours:
+- Drive home:
+  - Book
+  - Podcast
+  - New album
+- Power nap
+- Go for a walk
+- Prepare dinner/homemaking
+- Time with Deanna
+- Post-day meditation
+- Whatever
+
+What do I believe?
+- I believe we need to increase the supply of housing to dramatically reduce the price of housing in the United States and the broader Western world.
+- What do we like about Christianity?
+  - Community
+  - The ethical system of the Sermon on the Mount
+  - Fundamentally living for other people
+  - Faith through good works
+  - Devotion to craft and the virtue of labor and hard work
+
+The Age of Enlightenment/The Enlightenment
+Period of intellectual and cultural explosion in Western Europe in the late 17th century.
+
+Began with the Scientific Revolution
+Break with natural philosophy that preceded it. Departed from Greek conceptions, more mechanistic, and more integrated with mathematics. Boundary between ancient thought and modern science.
+De Humani Corporis Fabrica Libri Septem (On the Fabric of the Human Body in Seven Books)
+- A set of books on human anatomy published in 1543; superseded the long-dominant work of Galen. Written by Andreas Vesalius, a Dutch anatomist and physician.
+Imperial physician of Holy Roman Emperor Charles V.
+
+De Revolutionibus (On the Revolutions of the Heavenly Spheres)
+- Seminal work on heliocentricity. Written by Nicolaus Copernicus.
+
+Culminated with the publication of the Philosophiæ Naturalis Principia Mathematica (The Mathematical Principles of Natural Philosophy) by Sir Isaac Newton.
+The Principia is written in Latin, comprises three volumes, and authorized Samuel Pepys, who was president of the Royal Society.
+
+Prior to the Scientific Revolution, knowledge came from ancient authoritative texts, philosophical musing, astrology, and theology.
+Don't start from authority; fit observations into inherited systems. The Scientific Revolution pushed modern science - observation and theory tested against evidence.
+Experiment became central. Mathematics became the language of nature. Instruments expand the senses. Old cosmology overturned. Natural laws replaced purpose-based explanation.
+Institutions changed.
+
+According to Thomas Kuhn and Edward Grant:
+- Built on the translation into Latin of Greek and Arabic sources. Ancient Greek philosophy and learning, Roman/Byzantine science, and medieval Islamic science. Combined with the emergence of the medieval university. 
+
+Before the Scientific Revolution:
+Aristotelian-Scholasticism: Synthesis of Aristotle's natural philosophy with Christian theology. Reliance on ancient authoritative texts. Aristotle for physics and biology; Ptolemy for astronomy; Galen for medicine; Euclid for geometry. Ecclesiastical authority for matters of religious doctrine. Scholars wouldn't produce original empirical treatises; scholars commented on ancient authoritative canonical texts. Knowledge advanced through philosophical reasoning. Limited literacy and scarce text due to lack of printing press. Earth-centered cosmology. Elements of fire, earth, water, air, and aether. Things aspired to their natural "places".
+
+The Revolution Itself:
+- Heliocentrism: Copernicus proposes a Sun-centered cosmos. Kepler replaces circular orbits with ellipses.
+- Astronomy with telescopes: Galileo observes Jovian moons.
+- Experimental and mathematical method: Formalized controlled experiment and mathematical description
+- Nature consists of matter in motion governed by mechanical laws.
+- Newton unified terrestrial and celestial mechanics under his theories of physics. Originally thought that there was a perfect cosmos and an imperfect Earth.
+After the revolution, knowledge came via experimentation, direct observation, methodological consensus, and the scientific method.
+
+Causes:
+- Recovery and translation of classical texts
+- Printing press
+- Voyages of exploration
+- Protestant Reformation challenging the Catholic Church
+- Mathematical development
+- Instrumentation
+
+Sebastian Garren - Inspiring Catholic school founder and Emergent Ventures winner. Inspiring ideas for things to do.
+
+Woodworking
+Driftwood Ceramics
+KC Crew
+- Kickball
+Ultimate Frisbee
+Cardboard Cafe
+First Fridays and art community
+Climbing Gyms/Sequence/RoKC
+Lonely Days and become a regular
+KC Pet Project
+Volunteering
+Local Politics
+Running Club
+Hiking Club
+EDM
+Buddhist Temple/Religious Orgs
+Create or join a book club
+Mathematics club
+Create an online group and blog more
+TimeLeft
+Pawn and Pint Trivia
+
+Fukuyama:
+Liberalism needs community. The early 21st-century has been defined by a Rawlsian liberalism, focused on the autonomy of the individual. Fukuyama contends that people want to subordinate themselves to the constraints of community. They did not want protection from religion, so much as the freedom to choose the strong god they wanted to follow.
+
+The housing theory of everything as it extends to political polarization and dynamics. How does the lack of walkable cities and abundant housing relate to the above point? When you put people in car-dependent suburbs rather than walkable areas where they can easily mingle, and then intertwine it with restrictive sexual mores and a broad skepticism of public interaction, you wonder why communitarian ideals are hard to come by.
+
+Projects of the Santa Fe Institute
+- Chaos theory
+- Genetic algorithms
+- Artificial life
+- Complexity economics
+- Econophysics
+- Complex networks
+- Systems biology
+- Evolution of Human Languages
+- Research into Mayan civilization
+- Urban scaling
+  - Study of cities
+    - New York City
+    - San Francisco
+    - Rome
+    - London
+    - Los Ángeles
+    - Athens
+    - Singapore
+    - Beijing
+    - Shanghai
+    - Tokyo
+
+Who invented the telescope? I want to think it's Galileo, but something tells me that's probably not correct. Another candidate is Kepler. It's also entirely possible that it was invented by a random person whose name is otherwise irrelevant to history. Which would be interesting, because the telescope has been a huge invention and a boon to all of humanity. Early astronomers built all of their observations on the innovations of telescopes. The story of Martian canals was only possible because of the telescopic observations. Future telescopes orbiting in space are only possible because of the original invention of the telescope. The Hubble Space Telescope has taken some of the most legendary pictures of astronomical objects - nebulas, planets, star clusters, galaxy, etc. The James Web Space Telescope has further improved on this with additional viewing capabilities. The JWST is stationed in one of Earth's Lagrange points.
+
+How could you observe LLMs? Are there harnesses you could attach them to that would allow you to observe them? You would have to build a few smaller large language models to test their basic characteristics. The only way to test larger language models would be directly interacting with Claude, ChatGPT, Qwen, DeepSeek, and other AI tools. Dwarkesh Patel wrote a book about artificial intelligence called The Scaling Laws.
+
+There seems to be a rich canon of communist science fiction. A lot of it was written by Stanislaw Lem during Communist Poland. Films like Solaris and Ikarie XB-1 were based on novels by Stanislaw Lem. Other works are Red Star and Red Plenty. There's also Osterns that were written during the Soviet era and set on the Eurasian steppe.
+
+I'm starting to slowly approach the life of Cormac McCarthy that was laid out in that Smithsonian article. The article is a Smithsonian journalist coming to the house of Cormac 2 years after his death. The house was bought by McCarthy who was an amateur architect and stonemason and did work and modifications on his house. He was a self-taught carpenter and used it to build bookshelves to store all of his books. He did practical tasks like engine work on his classic car collection. He had engine manuals for old cars. He was also investigating rifling his own barrel. Outside the practical, he researched quantum mechanics, logic, philosophy, and mathematics. He also studied history and poetry and basically every topic available. This is basically everything I want to do, except maybe less reclusive.
+
+Software development is a craft and becoming a lot closer to music, painting, writing, movies, and YouTube videos. It's becoming a creative profession which means it's probably becoming more saturated and won't be well-compensated for long. It'll become a hit-driven industry like other cultural artifacts. That means pursuing it will have to be something I enjoy. Python and C have their own standard libraries that are written in the language themselves.
+
+Frank Sinatra was a famous 20th-century musician and performer, arguably one of the most iconic performers in all of American history. He influenced so many artists and musicians and performers later on in history. Esquire wrote a profile of him in 1965 that is arguably one of the best pieces of magazine literature.
+
+Baseball is a classic American sport, known as America's pastime. Some of the most famous athletes in American history were baseball players. It was significant during the civil rights era for a black baseball player to be able to play on a non-segregated team. A variation called stickball is played in Latin American countries and in New York City. Perhaps it originated in the Hispanic/Latino communities of New York City.
+
+The Supreme Court is the highest court of the United States, one of the three branches of the United States federal government. The job of the court is to interpret the laws passed by Congress and executive and their compatibility with the United States Constitution. The judiciary can't enforce any of its decisions - that is left to the executive. It can only hear appeals from lower courts and answer questions relating to those matters under the jurisdiction of the federal government. Supreme Court justices serve lifelong terms and are appointed by the President, with the approval of the Senate. The original intention of the process was for the Court to be isolated from political considerations, but it's recently become only more politicized. Some of the most important changes in all of United States history were decided by Supreme Court decisions. The Warren Court of the 1960s made consequential rulings on issues of civil rights. It was Democrat dominance in all three branches that allowed the major social changes of the mid-20th century to go through. The cases that majorly changed doctrine in the United States are called landmark rulings and should be read by any person wanting to be well-educated.
+
+Court cases in the United States are public record. However, because it costs money to host them, services like PACER require payment before documents can be viewed. Tools like RECAP were created to hopefully prevent people from having to make repeated payments.
+
+Go is an ancient strategic game created in China and played all throughout Asia. It occupies a similar place as chess in the East, however its rules are much more simple and its skill ceiling is much higher. The number of potential moves possible in Go is way larger than chess.
+
+Vaccines are some of the greatest medical inventions ever created by mankind. They've cured hundreds of diseases that plagued humanity for centuries - smallpox and polio being notable examples. Vaccines are just one implementation of the idea of acquired immunity. The concept was known in China and the Middle East centuries before being refined by European medicine. The history of medicine is an interesting subfield of healthcare. Healthcare touches on interesting problems in technology, science, politics, and economics. Some of the earliest medical thinkers were Galen and Avicenna. They wrote on the topics of surgery, anatomy, herbs, and common treatments. Scientific innovation and stricture in medicine were pushed by German scientists.
+
+...
+
+It's a tragic fatalist story. Humanity is at war with an alien collective called the Covenant that want to destroy us. And we're losing badly. The only hope is we've managed to keep the location of Earth a secret from them. They're trying to find the human homeworld so they can kill us at the root. There's a planet on Earth's doorstep, it's basically like the nearest star system called Reach, and we've managed to keep it a secret from the Covenant for years, but through some tragic twist they end up finding it and the game came out after all the other Halo games, but in the series plot line, it's a prequel. So everyone who's played the previous Halo games already knows how it ends - basically Reach ends up falling. 
+
+...
+
+# On Westerns
+An essay meditating on the nature of Westerns - films, literature, television shows, paintings, comics, and video games. What are the common themes that unite Westerns? What are their common narrative devices? How about their aesthetics? Color schemes? Geographic locations? Common tropes? Background on the pieces of literature that influenced Westerns?
+
+Westerns are a genre of fiction characterized by deserts, cowboys, outlaws, sheriffs, horseback riding, and the Old American West. Colors associated with Westerns are brown, red, gray, some green from foliage, tan, whites, yellows, and maybe dark blues. The stories typically take place in locations that evoke the states of Utah, Nevada, Arizona, New Mexico, and California. Native Americans sometimes feature. Characters speak English, Spanish, or Native American languages. Common items are cowboy hats, revolvers, saddles, boots, spurs, whips, bandanas, and carriages. Common tropes are a sheriff enforcing the law in a small town, a saloon where cowboys and outlaws duel, trains and common banditry, people seeking to escape their past or do one final job, or the conflict between a valuable outlaw and a sheriff hunting him. Cultural influence on Westerns is typically the American plains and the settler lifestyle, the California Gold Rush, Native American culture, and the Spanish culture of Mexico and the Iberian Peninsula. Gambling
+
+Background research on events that influenced Westerns
+Regions: Southwestern United States, Northern Mexico, Iberian Peninsula, Western Canada
+Languages: English, Spanish
+Events: Manifest Destiny, California Gold Rush, Railroad Boom
+Ethnic Groups: Europeans, Native Americans, Hispanics, African Americans, Chinese Americans
+
+# The Western Canon
+## The Significance of the Frontier in American History
+**Written by: Frederick Jackson Turner**
+America's history has been defined by the frontier, by the constant desire to go further West. North America, the New World, was the frontier to the Puritans and Calvinist settlers that departed Great Britain for Plymouth Rock. After they'd settled and tamed that land, they pushed further west still. They'd only explored the eastern quarter of what this new continent had to offer. With the achievement of reaching the Pacific coast from the Atlantic coast and the waning of the California Gold Rush, the frontier was at its end. There was no further left to explore. The land was thoroughly conquered and it could be a meaningful end of American history.
+
+...
+
+A hash table is a data structure that maps unique keys to indexes in an array of buckets using a hash function. Hash tables provide, on average, O(1) time performance for searches, insertions, and deletions. In other words, the time required to search for, insert, or delete a value from the data structure is constant regardless of the amount of data stored. A hash function is a function that maps keys to a unique index in the array where the data can be stored or looked for. Hash functions need to be:
+- Quick, otherwise it defeats the purpose of the hash table.
+- Collision-resistant, meaning different keys will rarely, if ever, generate the same index.
+- Uniform in their outputs, meaning each index is equally likely to be chosen by the hash function.
+
+Insertion is as easy as running a key through the hash function and storing the value at that index, which is a constant time operation. Search is the same, although instead of storing the object, you calculate the hash and retrieve the object at that index, which is a constant time operation. Deletion is the same. Effectively, you trade the linear complexity of scanning with the speed of an array lookup. The catch here is that it costs extra space. A hash table demonstrates the space-time tradeoff of algorithms - we trade better time complexity for increased linear space complexity.
+
+No hash function is perfect, so hash tables need collision-handling to deal with cases where it does occur. Two options here are chaining and open addressing.
+
+Chaining creates stores a linked list at each index, with each key-value pair at that index having its own node. Items mapped to this index are stored by adding them to the linked list, which is a constant time operation. Searching is a little more complicated because it requires traversing the linked list, which is normally a linear time operation. However, with proper design, we can minimize this effect and amortize the cost of the search, keeping search on average constant. Deletion is similar to insertion, since removal from a linked list is a constant time operation. Since the hash function ideally distributes indices equally, chaining will keep things efficient for a while.
+
+The other alternative is open addressing. With open addressing, every index stores a key-value pair normally. In the event of a collision, the hash table will use a probing sequence to find the first free space and insert there instead.
+
+Both these solutions are vulnerable to the ratio of stored objects to table capacity, called the load factor. As the size of the table increases, the load factor increases, increasing the probability of collision. The performance of the hash table slowly degrades as the load factor increases, trending away from constant time and towards linear. To fix this, once the load factor reaches a certain point, many hash table implementations implement mandatory resizing, doubling the size of the table, rehashing everything, and continuing. This is a linear time operation, but math of doubling each time makes it less and less frequent as the size of the table increases. In chaining implementations, the load factor measures the average length of each linked list, meaning as it increases, the average list gets bigger and bigger and searches become more and more expensive. With open addressing, higher load factors means each probing sequence has to spend more time looking for an open spot.
+
+Hash tables should be used in situations fast lookups, insertions, and deletions are needed. They're useful in LeetCode problems for searching over linear scans. Good for detecting duplicates or counting frequencies. Avoid them if order matters.
+
+---
+
+Sorting is the act of rearranging elements according to some comparison. Typically relevant for numbers, sorted in numerical order, or letters, sorted in alphabetical order. Can sort is ascending order (least to greatest) or descending order (greatest to least). Naive sorting algorithms require quadratic time (On^2). Better sorting algorithms are closing to linear or logarithmic time. Sorting is important because many of the most efficient search algorithms assume a sorted list. Sorting is also just generally a common operation when dealing with lists of data.
+
+Types of Sorting Algorithms:
+- Heapsort
+- Quicksort
+- Comparison Sort Lower Bounds
+- Counting Sort
+- Radix Sort
+- Bucket Sort
+
+...
+
+It's good that Carl Sagan found science to be part of the tapestry of human knowledge and wasn't a science dogmatist.
+
+How do you become someone dynamic like R.F. Kuang? For one, she doesn't seem to follow curriculums. Or if she does, she's habitual about it. She follows her curiosity and enjoyment first and foremost. A field you're legitimately curious about will be one you should easily get through the curriculum in. People that are interested in space or astrophysics or computer science almost don't need inspiration or a motivation to learn their fields. They'll just do it and follow whatever path leads them to mastery. This doesn't mean curriculums aren't important. Practice doesn't make perfect; perfect practice makes perfect. Curriculums are guides to that perfect practice.
+
+What is beauty? At a base level, beauty is something that is pleasurable for a human to perceive. A painting is beautiful because its colors coordinate or contrast nicely. In one sense, a painting of cohesive cool colors looks visually appealing - blues, grays, purples. However, it's also appealing to have the contradiction of warm and cold - yellow and blue for example. The field of color theory studies which colors look appealing together and why. Color theory is the music theory for painting. But there's another way a painting can be beautiful.
+
+A painting can evoke certain emotions or feelings in the viewer. A good enough painting of waves crashing against a rocky cliff transports the viewer to that location. They can feel the wind in their hair, hear the hiss and roar of the waves, hear the seagulls caw. It triggers memories and associations in your mind and the effectiveness of the trigger is the beauty of the work.
+
+This effect isn't just limited to paintings. It's true of all art. Music is analyzed both technically and emotionally. There is a theory of music and which notes sound good together, the arrangement of chords. Then there's the analysis of how a particular song or melody makes you feel, the images it evokes. Literature organizes its words to have a certain sound or rhythm, but certain words and the scenes they describe evoke certain emotions.
+
+There's a saying that beauty is in the eye of the beholder. If beauty can be so easily broken down into analysis, then how is beauty not objective? Beauty is not objective because the images and emotions it evokes are different from person to person. Every person has lived their own life, their own experience, and their own emotions. They've formed different associations between different scenes. For one person, waves crashing against a cliff reminds them of a simpler time growing up on the California coast before a big city job took them away. For another, a cliff could be something that reminds them of a tragic fall where they lost a loved one. In fact, this could be the same geographical cliff and it could still be interpreted differently. Human subjective experience is what makes something beautiful. But that doesn't mean there's not underlying logic to beauty. Paintings of contrasting colors, or things we have a natural aversion to are not beautiful.
+
+Writing has rules and effects that different sentence lengths, word choices, and tones can cause. Shorter sentences in quick succession cause stress and tension, while longer sentences slow the reader down and make them contemplate more.
+
+Mathematics collectives are apparently a thing. Nicolas Bourbaki is the collective pseudonym of a group of mathematicians that began writing mathematics texts after the First World War killed a generation of young mathematicians. What progress could you make if you got together a group of young mathematicians or hobbyist mathematicians, had a group review schedule, and paired them with increasingly powerful artificial intelligence as a collaborator? Would could they achieve? What about a software/computer science collective with the same goal?
+
+You don't have to follow strict monastic rules to get the improvements of the AI monastic system I devised. Spending a lot of time querying an AI, building a world model according to Claude, and then having a verification step where you verify all of the claims Claude made is probably a decent system, and one that mirrors the scientific method. You review Claude's documents just the same as you review the documents produced by any other human.
+
+What are some critical works of artificial intelligence? AI is a concept as old as angels or beauty or any other philosophical concepts. There are accounts of golems in ancient Jewish mysticism. Frankenstein is a canonical example. An AI canon could explore the science, the philosophy, and the fiction behind artificial intelligence as a concept. The works in an AI canon would be the ImageNet paper, the paper on Lisp and the proceedings of the Dartmouth AI college, whatever Jewish mysticism includes descriptions of golems, Frankenstein by Mary Shelley, I, Robot by Asimov, Attention is All You Need out of Google, probably the writings on LessWrong and SlateStarCodex. We still engage with large language models as programs rather than minds or other things to be studied. Is there a broad theory of learning and scaling that could be discovered?
+
+It should be a rule that politics is not engaged with via algorithmic feeds. Algorithmic feeds push you towards your own side and surround you with a bubble, ruining your ability to rationally think about the issues. it also isolates you from your fellow citizen, viewing them as evil and out to get you and that you have to destroy, rather than people with severe disagreements that have to be mediated through a liberal framework. The only content that you should engage with via an algorithmic feed is cultural content like comedy, drama, theatre, art, music, film, video games, and literature. Algorithms are a beautiful tool to expose yourself to more of a subculture than you could ever discover on your own. But you should always be aware that you're using an algorithmic feed and that it's something you can control and change at your whim. Also be sure to pick the best platform for the thing you're looking for. Find algorithmic music recommendations via Spotify and YouTube.
+
+When I read, I feel like I engage more with the material. More of it seeps into my brain at first glance. It hooks me more and I understand quicker. Is this really what social media was doing to me this whole time? The words are also coming clearer. I need to create more. I'm still too hesitant. I need something built, functional, and deployed by the end of this week. I need a blog post on a paper and a piece of software written and hosted. Not a finished; just a functional MVP. Pick a paper from 30u30 and read it and study and write a blogpost about it.
+
+RSW Notes:
+Speed matters: Why working quickly is more important than it seems
+- Working quickly is obviously important because you complete more. However, it also lowers the cost of doing things, inclining you to do more.c
+- The inverse is true. Every time you take longer to do something, you train your brain that it takes long, discouraging you from doing it more.
+- Even worse, doing things slow means you'll do it slow in the future because you don't learn to complete things quickly through repetition.
+- Any to-do list not emptied fast enough becomes a to-do list that is either never emptied or abandoned.
+- Broadly speaking, systems that consume quickly get more to consume. Slow systems starve.
+- Part of the activation energy required for a task is the image it evokes in your head. If the image it evokes is slow, then that energy feels higher.
+- Prescription: If there's something you want to do, do more, and get good at -- writing, fixing bugs, exercising - you should try to do it faster.
+- Don't be sloppy, but push yourself to go faster. You'll be inclined to do it more, and as you do it more with deliberate practice, you'll get both fast and good.
+- Being fast is fun. You begin to feel capable of doing the things you've always wanted to do. It makes you feel agentic.
+
+...
+
+Paul Ginsparg is a physicist that is more famous for building arXiv. He built software tools to make his own life easier. He's a researcher and an intellectual that built software tools inspired by his own needs. It's a craft and the true use of computers a bicycles for the mind. arXiv is an example of that. Part of me likes the idea of making a lot of money with a software project I start and using it to buy my freedom, but another part of me just wants to immerse myself in the craft of making software, and using that software to further my other pursuits in history, physics, philosophy, mathematics, writing, finance, and more.
+
+There's nothing wrong with building a ton of different software projects. There's nothing wrong with building a bunch of clone apps, the same way people cover the same songs over and over and over. There have been millions of chairs built; that doesn't make it wrong for you to build a chair. You might not make thousands of dollars off of it, but you can still build a chair. And you can create a community online for your chair you created and still maybe sell a limited run to a few thousand people. That's a respectable business. Everyone in software and the internet wants to be an influencer with massive global success. Perhaps you could optimize for a different goal - craft, creativity, output. What can you create? Can you create and launch 100 pieces of software? What will that teach you? How will that get you out of your comfort zone? What opportunities could that open up for you? What about 100 projects in general? What if you wrote 100 short stories, created 100 pieces of software, wrote 100 songs, made 100 paintings, learned and perfected 100 dances, did 100 sculptures, cooked the same meal 100 times? Or did 100 different dishes? How good would you get at the various things? What if you learned to do 100 pushups?
+
+This New Yorker profile of R.F. Kuang describes her as someone with ambitions and interests. She's high energy and likes the process of reinventing herself every few years. I like that as well. It keeps things exciting. She likes mastering the rules of something and then seeing how good she can get at it, how well she can crack it. This is a learning as a skill; learning as an athletic pursuit, similar to any bodybuilder.
+
+Art is any human creative pursuit. There are different types of art - visual art, audio art, literary art. Art is usually done to explore some idea or to evoke some image or emotion. Painting is a form of art where paint is applied to canvas to create images. Images can be realistic or nonrealistic, depending on the goals of the painter and what they're trying to evoke. Singing is the act of using one's voice to create music. Humans can learn to sing different notes and create music. Music with instruments is another form of art. People can learn to play the guitar or the piano or the flute or other instruments to create sounds that sound pleasing and evoke certain emotions. Literature does a similar goal with the written word. Prose literature wants to tell a story. Fictional prose is imaginary environments that don't exist. The stories didn't actually happen and are entire creations of the author's mind. Nonfiction prose covers real events, like history, biography, scientific literature, philosophy, legislation, etc. Literature can explore a variety of concepts and emotions in human experience. Poetry on the other hand doesn't tell a story; its goal is to use the sounds and meanings of words in an artistic way to cause certain feelings in the mind of the reader.
+
+Astronomy is the study of the heavens and the universe. Astronomers study stars, galaxies, planets, moons, nebulae, black holes, everything in space and the universe beyond planet Earth. Astronomy is one of the oldest sciences. One of the most basic things that unites all people, nations, and cultures is looking up to the sky and trying to make sense of what they see. They tell stories of how those things came to be. They turn them into characters or myths or legends. They build entire religious dogma about the shape of the heavens, who created them, and why they are the way they are. Modern astronomy takes advantage of modern physics and mathematics. Old physics was limited by the power of limited telescopes.
+
+Beauty makes something pleasurable to perceive. Art is often beautiful to experience. A person can be beautiful if they're physically attractive. A common saying is that "beauty is in the eyes of the beholder." This means beauty can often be subjective; what one person finds beautiful another might not. However, this often only occurs in the micro sense. There are things we universally regard as ugly, like certain fish or mud or waste. A longstanding debate in the philosophy of art seeks to resolve this question.
+
+Being is the state of existence. To be something. To quite literally exist in some form. Everything discussed so far deals with being. Humans exist. The universe exists. Planets exist. Concepts and ideas exist. The foundation of philosophy is oriented around questions of being. Why do we exist? How did we come to exist? Should we continue to exist? What should we do while we exist? For what purpose does our existence serve?
+
+Cause is related to causality. One event "causes" another if the latter event could only occur due to the former event occurring first. The entire universe is one giant chain of causality going all the way back to the Big Bang. The universe was born, which caused certain gasses and matter to expand and take different forms, which caused certain other reactions to occur, which caused the creations of nebula, which caused the creations of stars, which caused the creation of the Sun, which caused the creation of the planets and Earth, which caused the creation of life, which caused humanity, which caused all the questions we ask now.
+
+...
+
+Standup Update:
+Yesterday, I reviewed the Card Service DOB redundancy ticket and also read the Cursor repo to get a better idea of how the skills we have updated. Today, I'm wide-open for work. I can either pull something in, or do some upskilling and review the stories we have coming up for refinement and prepare some notes for retro since the latter half of the day will be stocked with meetings.
+
+In a world of AI summaries and delegation, there's a premium on being willing to do the full reading and hard hands-on work.
+
+Project List:
+- Order management application
+  - Warehouse management system
+    - App to scan barcodes and ingest into system
+  - Invoicing
+  - Order tracking
+  - Commerce page
+  - Easy CSV export
+  - Basic MVP
+    - SKU Management
+      - Create a product
+      - Update a product
+      - Retrieve a product
+      - Delete a product
+      - Stock counts
+
+- F1ZX
+  - Physics paper organizer
+    - Paper reader
+    - Citation tracker/subfield traversal
+    - Generate reproducible code
+  - Physics simulator
+    - Orbital mechanics
+  - Physics calculator
+- Cryptocurrency/blockchain SQL language and data tool
+- AI prompt database/data analysis tool
+  - Query a prompt database.
+  - See scores and data tool correlations of how the quality of a prompt against various AI models.
+  - Correlate prompts to responses and query responses. Meta-prompting.
+- Mobile game without stupid ads or subscriptions.
+- Mobile game with subscription.
+- Compliance software
+- Supply chain visualizer
+  - Like a product? How did it get to you? Want to find out?
+- MediaWrapped
+  - Consume your consumption habits into a wrapped.
+- Safe database engine transfer system
+  - Transfer a dataset from SQLite to Postgres
+  - Postgres to MySQL
+- Tax preparation software
+  - Tax bracket simulation software
+- Mini HTML tools like Simon Willison
+- 10-K Reader
+  - NLRB Insights for financial statements. A database for searching corporate 10-Ks.
+  - Compare projections with market performance.
+  - Generate automated reports.
+  - Integrate more data sources.
+- Encryption algorithm implementations
+- PDF Reader
+  - Bookmark
+  - Highlighting
+  - Easy snippet
+- Information retrieval software
+  - Paper search engine
+  - Prompt search engine
+  - AI response search engine
+  - Moodboard search engine
+- Board games as web apps
+- Learn Relativity Online
+- Historical power map
+  - A web application that will let you scroll through history and see what empires existed at what times.
+- A map of Nobel Prize in Literature winners overlaid on the globe.
+- Hypercard imitation
+- Lempel-Ziv algorithm
+- M1 chips
+- BetterMans
+  - Reading man pages sucks. A better web interface.
+- Graphing calculator and graphing calculator app
+- Black Hole Browser
+- Stellar Browser
+- Star database
+- Paper recommendation engine
+- Go playing website. Play Go against a selection of AI models and train yourself.
+  - Create a Go-playing AI model.
+  - A website for multiplayer Go playing.
+- Email template software
+  - Choose an email from a pre-created set of templates. Never write emails manually again.
+- Mass novel generator
+  - Generate page, chapter, or whole book drafts based on a few sentiment queries.
+- Supreme Court search engine
+  - Logic mapper for decisions
+  - See connected cases and areas of case law
+  - Query on specific case and court decisions. "Talk" to a landmark SCOTUS decision.
+- Automated environmental approval querying
+  - NEPA
+  - CEQA
+  - Database of previous environmental objections and effective responses that minimized decision time.
+  - Predict possible obstructions.
+- Innovation and technology legal decision database, similar to the labor law database created by Matt Bruenig.
+- Software/AI-enabled think tank
+- Legislation visualizer
+  - For a specific piece of legislation passed by the United States Congress, see the makeup of Congress at the time it was passed, the vote total it passed by broken down by party, and who voted for it.
+- Get Smart Saturday software for personal use.
+- Personalized cover letter generator for a specific company.
+- Write an essay making a claim. Put X citations anywhere you need additional research. AI tool that will analyze text, find "hotspots" and search for information related to those claims.
+- Rules of St. Claude as a web page.
+- Daily Marcus Aurelius
+- ICE abuse database/webpage
+- RECAP improvement
+  - Auto-RECAP
+  - PACER Fund
+    - Donate to a PACER Fund that will provide an autopayment service you can use to get legal records.
+- Clinical trial search engine
+- VaccineFacts
+  - Common points of vaccine misinformation and rebuttals with data.
+  - How to understand common vaccine data points
+  - Summaries and data of vaccine clinical trials
+  - Specific vaccine histories
+  - Vaccine ingredients
+- DataCenterFacts
+  - Common talking points of data center misinformation and rebuttals with data
+  - Potential benefits of data centers to a local economy
+  - Articles and policy ideas of how local communities can get the most out of data centers
+  - Stories of data center success (Virginia county)
+  - How local electricity markets work.
+  - How data centers work.
+  - Why people lie about data centers.
+  - Short videos
+- Field summarizer
+  - Quickly find the most important/cited scientific papers in a field.
+- Basic artificial neural network
+- Neural network for languages
+- Lisp interpreter
+  - AI-enabled Lisp workspace
+- Rent tracker
+  - Search the current average rent across your geographic area.
+  - See rent trends
+  - Generate easy rent reduction email/argument.
+- GDPR blocker; automatically accept GDPR cookies and other pop-ups on websites
+- ExpandLegalizedImmigration
+  - A website with data on immigration and advocating increased high-skilled immigration.
+  - Facts and numbers on green cards.
+  - Studies, stories, and arguments on high-skilled immigration
+- Data structure and algorithm library
+  - A library of implementations of various data structures and algorithms in various programming languages, along with research reports written about them.
+- Custom Constitution
+- Commentary on the Claude Constitution
+- A book review publication focused on Silicon Valley culture
+  - Redwood & Fab
+
+Vigils:
+Review session logs from previous day. Identify entries eligible for promotion to a working document. Update errata logs with failures identified during previous day's Compline. No AI consultation.
+
+Lauds:
+First period of the working day. Write session brief for the day's primary inquiry. No AI interface open. Session brief should state (a) the problem in precise terms, (b) what a satisfactory output looks like, (c) which verification method applies to output type, and (d) what constitutes failure. Session brief logged before Terce.
+
+Problem (a):
+I want to understand hash tables/hash maps. What is a hash table? How do they work? What's their time and space complexity? When should you use one? How are they implemented in languages like Python and the C programming language? What is an associative array abstract data structure? What are its mathematical properties?
+
+Problem (b):
+Satisfactory output would be answers to the above questions that are clear and understandable, while also being technically accurate. It would also include a code implementation in Python and the C programming language.
+
+Problem (c):
+Verification of the output type means checking with references like CLRS and other authoritative texts in data structures and algorithms. The code should pass test cases, match the complexity nature expressed in the original definition, and be referenced against existing implementations that likely exist on the Internet.
+
+Problem (d):
+Failure would be either inaccurate information about the nature of the data structure/abstract data type, or the code failing in specific test cases.
+
+Terce
+Primary AI consultation session. The practitioner engages with the AI using the session brief as the governing document. All outputs are logged to the session log immediately. Nothing produced in Terce is treated as verified. Deviation from the session brief is permitted if the practitioner pauses, writes an amendment to the session brief stating the deviation and its rationale, and logs it before continuing.
+
+Sext
+Verification session. The practitioner works through Terce outputs against the verification standards specified for the relevant domain. Verified content is promoted to working document
+status. Failures are logged to the errata corpus with the required fields. The ratio of verified content to logged failures from each Sext session is the organization's primary quality metric.
+
+None
+Integration session. The practitioner places verified outputs in the context of the existing corpus. Identifies connections to prior verified results. Identifies open problems the day's verified work reveals. Updates domain protocols if Terce and Sext revealed that existing protocols were insufficient. Protocol updates are working documents, reviewed again the following
+Vigils before being treated as settled.
+
+Vespers
+Synthesis and publication session. The practitioner converts integration work into publishable corpus entries where the material meets the publication standard. Drafts any public-facing writing. Only corpus-grade material may be published externally. The practitioner does not publish session log or working document material under any circumstance, regardless
+of how interesting it appears.
+
+Compline
+Error review. The practitioner reviews the day's errata corpus entries. For each failure: identifies the failure type, determines whether the verification protocol caught it as designed or
+whether it was caught by other means, and proposes a protocol amendment if the protocol missed it. Reviews the day's session brief against what actually occurred in Terce. Documents deviations and their causes.
+
+Group Anagrams:
+- Hash maps/dictionaries
+- String manipulation
+- Sorting
+- Character frequency counting
+- Hash keys
+
+Hash Table
+A hash table/hash map is a data structure that implements an associative array abstract data type.
+
+...
+
+Howard Marks - The Complete Collection
+Howard Marks' collection of memos. According to him, they chart the themes he considers to be truly essential to understanding investing.
+- Cycles are inevitable. It's important to understand and master them.
+- Patterns in investor behavior rhyme from cycle to cycle. This is an opportunity.
+- Emotion drives investors to do the wrong things at the wrong times.
+- Contrarianism at pivotal moments is much more effective than following the herd, but it's difficult.
+- Price is important. The relationship between price and underlying value must be reasonable for an investment to be good.
+- You can't excel in investing without a knowledge advantage. This doesn't just mean superior data, but superior inferencing.
+- Macro predictions are unlikely to give you an edge.
+- Certainty has no place in investing. Humility is essential.
+- Other investors aren't easy to beat; trying harder won't do it.
+- Others are intelligent; that means you're unlikely to come across windfalls or sure things.
+- Randomness is ever-present, and can produce any outcome in the short run. A well-reasoned process won't work in anything other than the long-term.
+- Risk is indispensable in investing; it can be controlled, but never eliminated.
+- Skilled investors achieve asymmetry; returns are disproportionate to their risk.
+- One plausible route to asymmetry is via the minimization of losses. 
+
+...
+
+Rules of Secular Liturgy
+- Begin the day with prayer/meditation.
+- Do your most important tasks in the morning, before the day descends on you.
+- Write 1000 words a day.
+- Don't drink.
+- Don't gamble.
+- Don't do drugs.
+- Electronic devices shut off at 9pm.
+- Bathroom activities early in the night routine to avoid late-night sluggishness and slack.
+- Melatonin early in the night routine.
+- Write one thing to do first in the morning. A "domino task" to set the day off correctly.
+- Reading at the end of night routine to lull self into sleep.
+
+...
+
+I asked Claude about a system of AI monasticism. I was inspired by watching Conclave how you could create an organization that would systematically query artificial intelligence for knowledge and wisdom. You could create quasi-religious organizations that would use AI models to gain knowledge about the world and synthesize it with human reason into proper formats, while working it through a verification system to get output and make sure AI doesn't hallucinate. Even if you don't start by creating an organization, having monastic devotion to that concept for things you're interested in sounds potentially incredibly productive. I'll refine the system and see if I can turn it into a daily habit.
+
+I was reading into the Rule of St. Benedict and it gave me the idea of creating a Personal Rule for secular living and how to devote yourself in life through certain habits of purity and productivity. It'd be something I could steal from various philosophies - the Rule of St. Benedict itself, Stoicism, personal daily habits, etc. - and refine into a clear system. Through interaction with reality, it would give me an easy-to-follow life system and a start to my philosophical output. Today I'd like to create that system of reasoning. The fields I should double down on are computer science, mathematics, physics, and literature. The primary focuses will be computer science and literature and pivot out to the other two as necessary.
+
+I don't know what the system of daily structure will be. I'm kind of already following one by writing here in the morning. I could grab a LeetCode medium problem before I leave for work and formulate it into something to solve when I sit down at my desk to get the work day started. Then I could also do one at lunch time. I'll make sure to do that and write it down into a session inquiry.
+
+Conclave was a good movie. I enjoyed it a lot. Conservative Catholics obviously won't enjoy it, but the drama and tension was well-done. The symbolic name of the new Pope as Pope Innocent XI - for he was the only Pope innocent of the ambition and political machinations of the conclave. In a way, Lawrence's speech was evidence of his own ambition. He had doubts and tried to will into being a Pope who would doubt i.e. himself. The pacing was excellent. The set pieces and cinematography were incredibly good, as well as the devotion to accuracy. The question of who would be Pope was predictable, but the symbolism was there and enjoyable.
+
+Artificial intelligence is the branch of computer science that studies systems that can reason, make decisions, perceive the world, understand language, and engage in goal-oriented behavior. Machine learning is the branch of artificial intelligence focused on programs that can learn. A program can learn if it can increase its performance at a given task on subsequent runs using information from previous runs and data to reference on correct solutions. Machine learning can be achieved through various methods, but the most popular ones are artificial neural networks - computational systems modeled after our own neural systems. Understanding neural networks requires knowledge of linear algebra, statistics, and probability.
+
+How would a research organization/monastery built around extracting knowledge from artificial intelligence models choose what models to use? How would it deal with new models that come out? There would probably have to be review periods and sessions where affirmed users would get the new model and use it alongside the old one, comparing output and error rates and making sure the reasoning is clean between both of them. The errata log would give data and a sense of regression or increase in hallucinations between the new model and the old one.
+
+Monasteries are interesting as organizations of cognitive capacity. In a sense, the clergy were the first ever knowledge workers. Their jobs were to interpret text and read sacred literature like the Bible. Their focus is learning and research. It's no wonder the first universities came into being because of religious organizations and the desire to train new clergy. This was also the case in the first universities in the United States. Yale and Harvard were founded as ministerial schools to train new Protestant ministers in the New World.
+
+Angels are holy figures in many world religions. Angels inhabit heaven with God and are entirely divine entities, free from sin and from the impurities of the world. They're commonly depicted as winged humans, although not always. They often serve as messengers from heaven in holy books like the Bible, coming down to Earth to communicate the will of God to his disciples. An angel named Gabriel in the New Testament tells Mary that she will give birth to a child and name him Jesus.
+
+Animals are the wild animals of the world. They live across the land, fly in the sky, and fill the seas. Animals colloquially are any non-human and non-plant living thing. Terrestrial animals range from massive elephants to tiny insects. Hundreds of thousands of different birds fly in the sky. The seas are filled with squids, octopus, crustaceans, fish, whales, and dolphins. Talking animals often appear in folklore, providing wisdom to protagonists. Deities in ancient mythologies will often take the form of animals. For example, Zeus in Greek mythology would take the form of an eagle or a cow. Due to their nature and early encounters with humans, animals have come to symbolize certain virtues in human culture, such as lions and ferocity, or owls and wisdom. In the Bible, animals are subservient to mankind as ordained by God.
+
+Aristocracy is a form of government where a small, wealthy, well-connected elite rule over the rest of society. This rule is typically non-democratic - the lower classes of society have no way of ever removing or holding the aristocratic class accountable. The elite are also closed off. There's no way for anyone to ever ascend from the lower class to the upper class. The aristocracy is a perpetual, undemocratic, unelected rulership. In Western societies, aristocracy is often seen as a negative trait and an undesirable form of government.
+
+Einstein is significant for his innovations in the study of space. Relativity is beautiful as a scientific theory and as an art form. Science originated from philosophy. Science and humanities are not opposite ends - they are one and the same. They are different and equal ways of knowing, so long as they are applied in the right contexts. It's wrong when science tries to step into moral questions, and it's wrong when excessive morality, subjectivity, or dogma tries to seep its way into scientific reasoning. Of course, these two things can never be completely separated. Questions of ethics and morality are informed by underlying fact of the matter, which only science faithfully executed can answer. On the flip side, science is not an amoral pursuit. As the physicists of the 20th century learned, science can be applied to honorable or horrific causes, elevating humanity to the heavens or burning us to ashes.
+
+I feel incredibly focused. More focused and refined than I did yesterday. I have occasional burns of desire to view social media, but I've managed to suppress them. I'm sure it will only become easier as I keep going. I need to be careful not to completely isolate myself. Social media is a useful tool for sharing work and connecting with people, but that's always what its focus should be. The work should come first and the sharing after. Consumption of it should be strictly confined. We have a network that connects us to the minds of almost every other human being on the planet. You would never spend all or even most of your time connected to a hive mind like this, or you would strictly filter your exposure to it. Too much would drive you insane or erase your individuality. The Internet allows you to experience the full breadth of human experience - to see through the eyes of others and witness their lived experience, their language, their culture, their lives, their history. The Internet lets you see humanity at its highest heights, but also its lowest trenches. This is an experience that is incredibly advantageous to your growth as a person, but you have to engage with it incredibly intentionally, because too much exposure to our full nature will destroy your mind.
+
+...
+
+The disconnection has improved my focus. However, I feel alienated from the world. Thoroughly isolated. Like there's something happening and I'm missing it. Also my time is difficult to fill. The time I would've normally filled with social media engagement is now entirely unfilled. This is the definition of freedom, but it's also incredibly troubling. This is the time I've been losing every day, every week, every month, every year. Now I have to fill it again with something new. This the difficult moment where I can't give in. If I'm going to retrain my mind, then this is what I have to endure for the time being. Allow myself to be bored. Allow the thoughts to pour in. Fill the time with the things I wish I was doing. Let the new life I desire build itself and my mind will recalibrate. This week however has to be a week of complete abstinence. Afterwards, well how the next week feels. There are projects I can occupy my time with. What is the list of projects I wish I was doing? The list of Wikipedia articles and saved articles I wish I was reading? The stacks of books that infest this apartment that I haven't even started yet? The movies I've been telling myself I need to watch? The meals I've been telling myself I should cook? The LeetCode problems and programming textbooks and problems I've been telling myself I should do? The practice for the work of tomorrow that I need to complete. This is the life of devotion to the cause; the monastic life I claim to desire. Let's see if I actually desire it.
+
+The rituals and idea of building an order like the Vatican or the cardinals around Claude/ChatGPT/Perplexity? What would an AI monastic society look like?
+
+...
+
+Over it all: Time
+
+Art
+Art is all human creative endeavor, like literature, painting, music, sculpture, fashion, film, and theatre.
+
+Commerce
+Commerce is business and finance. Activities done for commercial purposes to make money by selling goods or services. Trade, investing, business administration, business strategy, capital, and more.
+
+History
+History is the systematic study of the past. We study history to remember previous events and to inform current decision-making. A shared history influences ethnic, cultural, and national identities. Understanding what happened in the past has important implications for present political conditions.
+
+Law
+Laws are the rules that govern society. Laws are essential because they constrain individual behavior to make society function. Without laws, humanity could run amok and organized society would collapse. A well-designed legal system helps protect the naturally weak from the naturally strong, ensuring consistent rules, peace, and prosperity. Large corporations and commerce prefer rule of law, as it provides a consistent set of rules to operate within, and assurances that they can make deals, sign contracts, and have their property rights enforced and not be defrauded.
+
+Philosophy
+Philosophy deals with deeper questions of human meaning. What is truth? What is justice? How do we know what is good and what is bad? What is the purpose of human life? All of science originated as a branch of philosophy. Branches of philosophy include logic, epistemology, ethics, and metaphysics.
+
+Poetry
+Literature that is not prose. Poetry has rhythm, rhyme and textual structure. It's usually written for aesthetic or auditory nature rather than narrative.
+
+Religion
+Organized social and cultural systems characterized by sacred texts, mythologies, holy places, histories, ethics, prophecies, and morals. Religions typically have common narratives about the origin of life and the universe and follow certain rituals, festivals, prayer, and life services like marriage and funerals. Certain cultural activities are often done in the name of religion, like art, music, architecture, dance.
+
+Science
+The rational investigation of the natural world using the scientific method. Originated as a branch of philosophy called natural philosophy. Physics, biology, astronomy, geology, medicine, chemistry, geography, mathematics, etc.
+
+...
+
+Astronomy is the study of stars and the cosmos. We are but one species on a tiny rock floating through an infinite void surrounding a burning ball of fire called our sun. However, our sun is just one star in a galaxy of billions. Each of those billions could have many worlds just like our own. This galaxy is just one of many billions in our local cluster, each with billions of its own stars, that could have millions of worlds just like our own, with life just our own. It's humbling to think that we matter in the grand scheme of things.
+
+I've been passionate about astronomy ever since I was a boy. The first books I consumed were about astronomy and space. I love learning about planets, rockets, NASA, moons, stars, galaxies, the future of universe, and how our universe was formed. I loved looking at pictures of nebula. I originally got into computer science because I was playing video games, and the thought of creating my own games was inspiring. Out of that, and the recognition that I needed to do something more professional, came a pivot to more traditional business software, Reddit, learning about the origins of Reddit, and eventually Y Combinator and Silicon Valley. I learned about the history of computing and the innovators that built computing to where it is today. As I find myself adrift and lost, I wonder if returning to these roots my hold the answers I've been looking for. I haven't read about space and astronomy in a long time, but the Artemis mission was inspiring to watch and awakened something in me. I like reading The Martian. I never lost that love of space, of rockets and the stars, and the desire to make our exploration of them a reality. Now that I have a degree in computer science and more mathematical prerequisites, I should be able to ore thoroughly engage with the various topics of science and space that interest me.
+
+I have a better understanding of algebra, geometry, and calculus, which means I can understand physics. I can learn about astrophysics and the rules that govern our universe. I can do physics and mathematics programming projects to stay grounded in computer science. I'll always have an interest in computers and how they function as machines and artificial intelligence that can augment how we learn about the universe. If I'm going to explore the nature of our universe, having a machine intelligence like Claude that parses data and can assist me as a personal intelligent assistant and analyzing it all will be a useful companion. It also feeds my philosophical side. Every religion has wondered about the nature of our cosmos and has its own cosmology. Christianity, Islam, Judaism, Buddhism, and Hinduism. All of them are worth studying and learning about as philosophies of how we should exist on this planet.
+
+I originally got into politics because it felt like something I should be aware of as a citizen of a democracy. It felt like my civic duty. However, that information can be learned around election time. I can learn more about a country by engaging with its history, textbooks, culture, music, art, literature, technology, and television than from reading the news. From there I gain the perspective I need to vote in local and federal elections. Being an informed citizen doesn't require engagement with politics in the way I've done it for the past 10 years. My time could be much better spent. I'd rather go back to the science that originally inspired me and make do with what I can from those works, while I read and hopefully gain material to share what I'm working on. Hopefully more productive engagement will let me blog and give me projects to work on that I can use to work in public and meet interesting people. Computers and artificial intelligence are interesting to me, but only incidentally. I'm inspired by the usage of computers to achieve more interesting human goals like mathematics, physics, and astrophysics research; organizing and searching through information like search engines, information retrieval, and library science; and supporting our creative endeavors like writing and music and distribution to other people around the globe.
+
+Hopefully I can use the remainder of my time to learn about these more interesting things, starting with returning to space where it all began. I'll have to let my curiosity guide me for the next week and see where I go from there. I should spend the remainder of this week doing that - don't try to be too productive, but keep reading and try to note where my attention naturally takes me. That will guide me to my next project and what I should be paying attention to.
+
+Michael Nielsen is incredibly inspiring to me. He's a physicist with a strong side interest in artificial intelligence and computer science. He wrote a book on physics and quantum physics and quantum computing. But he also recognizes the importance of AI and computing in solving these goals. How much could artificial intelligence benefit an amateur physicist, mathematician, and astrophysicist/astronomy nerd? How much could it benefit a lay philosopher? How much could it benefit the life of an artistic craftsman? I could be a chief example of that. I can be the engineer in Germany with the massive book collection that enjoyed his craft and expanding his knowledge.
+
+The Fitzwilliam has established an AI circle. I can read the papers in this circle to understand artificial intelligence and how to use it better, specifically with applications to physics, mathematics, and astrophysics. I can have lab hours to implement papers and build things.
+
+They also established a math problem circle. Apparently these used to be a thing, but died out. It'd be nice to start a math reading group that does problems together. It can be local and I can organize events and lectures from mathematicians, as well as bring together local people and people from the internet. I can fly out to areas like San Francisco, New York City, or Austin. I can get into group chats or friend groups or meet people. Some projects that Michael Nielsen has done are:
+- YouTube videos
+- Online textbooks
+- An online notebook
+- Tools and software
+
+I can write about culture like films, music, television shows, podcasts, literature, sports, and art. I can learn to play chess or Go. I can learn foreign languages like Latin, Spanish, Greek, and Chinese. I can consume the Feynman lectures. But I've done this before. It doesn't matter if I don't schedule this work into actionable habits. Right now I can see where my attention drags me to.
+
+Who is Martha Nussbaum? She's a philosophy and law professor at the University of Chicago and will be doing a Conversation with Tyler.
+
+Bryan Caplan doesn't read the news. I should be the same.
+
+...
+
+I begin the day again, like many before. It's Thursday. I don't know the weather outside, but it feels cold. I have no thoughts. The day is truly open. I should be cognizant of the things I attempt to do, because what I do now sincerely defines the rest of my day and my energy levels. Starting off by writing 1000 words is a good start. I could write some words on a topic I think I know a lot about but might actually not. I've never developed my thoughts on a topic in an extended way before. I'm already almost 100 words into the day's goal. It's crazy to me how fast one tenth of the problem disappears.
+
+I ended yesterday writing about the Iranian people. Iran, formerly known as Persia, is one of the world's oldest civilizations. The clashes between the Persian Achaemaneid Empire and the fledging Greek city-states gave rise to classical Greece, the golden age of Athens, Socrates and Plato, and thus all of Western philosophy. Much like the rest of the Islamic world, Persian polymaths guided us through topics like jurisprudence, math, philosophy, astronomy, religion, and medicine. Avicenna was a physician and philosopher who wrote The Canon of Medicine, an immensely influential tract that guided medical care in both the Islamic and European worlds for centuries. Averroes was an Aristotelian philosopher and jurist on questions of Islamic law. Computers and the study of computer science today center on algorithms, finite sequences of steps to perform some operation or task. The word "algorithm" was derived from the name Al-Khwarizmi, a mathematician of Persian descent. A more modern mathematician, Maryam Mirzakhani, was the first woman and the first Iranian to ever win the Fields Medal.
+
+I do not support the current Islamic Iranian regime. It is a repressive, theocratic, authoritarian regime that squanders the potential of its people, denying them their human dignity and massacring them by the thousands when they have the courage to demand change. I don't believe in the Shah either, because he also ruled as an authoritarian leader. The only way, the only alternative, is for the Iranian people to have the liberal democratic representation and economic well-being they long for. That can only be achieved with more freedom. They've made themselves enemies of not only the Western world, but also nearer states like Saudi Arabia and Gulf States like the United Arab Emirates. Their conflict with Israel is what drives United States foreign policy, as well as old grudges like the coup of Mohammed Mossadegh during the Cold War that was backed by the Central Intelligence Agency. To this day, the Iranian regime uses the CIA as a scapegoat for its repression of legitimate dissent within its borders. All this being said, I do not support the aggressive war currently be prosecuted against Iran by the United States. It's goals were never clear to begin with, it was never approved by Congress, and has only caused massive disruption and suffering across the world. The Iranian authoritarian government will not be toppled by an aggressive regime change war. That's not even mentioning the civilian cost of the war. An American missile killed a school full of young Iranian girls and nobody was or ever will be held accountable.
+
+I don't know much about Persian astronomy. I'm certain it was influential. A lot of early astronomy was performed by the Chinese and Islamic worlds. Many stars have Arabic names. I'm pretty sure the astrolabe was invented by Arabic star cartographers. I'd be interested in learning more about how they viewed space and cosmology, how they mapped the stars, what names they gave them. The Chinese have a legend called the Weaver Girl and the Cowherd about the stars Vega and Altair in the Summer Triangle. Vega and Altair are separated from each other by the river of the Milky Way, only being allowed to see each other during a specific time of year when magpies make a bridge for them to be together, before separating them again. I'm certain the Islamic world has similar interesting stories and myths.
+
+Why should government be determined by the people? Authoritarian regimes have been the norm throughout history. Most of human advancement was done under the guise of autocratic rule. All of agriculture, some of the most classic early human literature like Beowulf and the Epic of Gilgamesh, scientific advancement like those of the Iranians and Chinese mentioned above. It doesn't seem like authoritarian regimes have stunted human progress all that much. Modern authoritarian countries like China are technologically innovative and growing incredibly rapidly. The masses are easily swayed by demagogues and propagandists, leading to substandard governance. Only elites and the expert class should ideally guide the government in the proper direction. Authoritarian governments are able to keep a shared reality in place that guides and directs their people, as well as gives them meaning and something to live for.
+
+Government should be determined by the people, because government begins with the private individual. Governments are constituted by men and instituted among men to pool resources for common prosperity and recognize and protect mutual rights. By doing this, we sacrifice some of our complete individual freedom for protection and in some sense to achieve more happiness and freedom than we could otherwise. There's a common libertarian argument that government necessarily restricts freedom, but that's not always true. Simply because human history has spent most of its time under autocratic governments doesn't make that the correct choice. It's possible that advancement could've happened *quicker* had autocratic regimes not gotten in the way. Many of the greatest works in history were done by people who spent their lives trying to escape the repression that comes with authoritarian regimes, like Voltaire attempting to escape persecution by the church for his writings, or Spinoza being ousted by his community rejecting religion. Liberalism is the form of government that put a man on the moon, created vaccines, created the computing age, and more. An explosion in world culture has occurred under the purview of the United States. China is technologically advanced, but you could say the same of Korea, Japan, and Taiwan - all countries governed democratically. You could even say the same of Singapore, an authoritarian but still more democratic country than China. All of Asia has had a dramatic growth story and the form of government its performed under doesn't seem to be relevant. China's advancement has also come at the cost of suppressing many of their minority groups like Uyghurs in exchange for a dominant Han culture. You don't really feel the prosperity of China right now if you're a minority group not preferred by the government. That's one of the better functions of liberalism - it allows diverse groups to live together mutually and be assured institutional protection of their rights. It might nice to be a preferred group under and autocrat, but an unpreferred group would be complete suffering with no recourse. Authoritarian leaders are not immune from propaganda and demagoguery; look at Joseph Stalin and Mao Zedong. Both leaders much of their populations to death by famine and repression due to their delusions. Liberalism protects people from demagoguery by making them accountable to elections and able to be removed without violent revolution. Elites are not immune from being incorrect. Some of the biggest blunders and catastrophes in human history have come from the delusions of elites that though they knew better, and ended in tragedy. This is kind of the thesis of Seeing Like a State by James C. Scott. A shared reality hasn't been the case for most of human history and we got along just fine, even in democratic forms. Democracy allows you the freedom of having your own reality, because the alternative is the enforcement of reality from above by a brutal state, even if that's a reality you may not agree with. Take, for example, the reality imposed on Europe by the Catholic Church that suppressed all dissent from its orthodoxy.
+
+Fitzwilliam AI Circle
+- Read papers
+- Implement papers and build things
+- Foundations:
+  - Vaswani et al. (2017), Attention is All You Need
+  - Radford et al. (2018), Improving Language Understanding by Generative Pre-Training
+  - Radford et al. (2019), Language Models are Unsupervised Multitask Learners
+  - Bonus: Andrej Karpathy, Deep Dive into LLMs like ChatGPT
+- Scaling:
+  - Kaplan et al. (2020), Scaling Laws for Neural Language Models
+  - Brown et al. (2020), Language Models are Few-Shot Learners
+  - Hoffman et al. (2022), Training Compute-Optimal Large Language Models
+  - Bonus: Richard Sutton, The Bitter Lesson
+- Bishop and Bishop's Deep Learning: Foundations and Concepts.
+- Reasoning, learning, interpretability, agents, and creativity are future topics.
+- Dwarkesh studying how Andy Matuschak reads a textbook.
+- Reach out to Sam at The Fitzwilliam about reading groups
+
+Fitzwilliam Math Circle
+- There are very few "math reading groups".
+  - Distribute problems before each meetup.
+  - Everyone try them and get stuck.
+  - Get together in a fun and supportive environment.
+  - There is no specific number of problems required to have completed.
+- "If you never do math, there is so much of the human aesthetic experience you are sealing yourself off from."
+- Problem Set 1: https://samenright.com/wp-content/uploads/2025/11/mathscircle1_induction.pdf
+- Proofs: A Long-Form Mathematics Textbook
+- Problem Set 2: https://samenright.com/wp-content/uploads/2025/11/mathscircle2_numbertheory.pdf
+- Number Theory. Math History: A Long-Form Mathematics Textbook. https://longformmath.com/math-history-book/
+- Reach out to Sam at The Fitzwilliam about reading groups.
+
+Fitzwiliam Reading Group
+- Monthly reading group.
+- The key to successful reading groups is to show up yourself even if nobody else does.
+- First readings:
+  - Ricardo's Difficult Idea
+  - What Do Trade Agreements Really Do?
+  - Economic Sanctions: Evolution, Consequences, and Challenges
+- Second readings:
+  - How to Stage a Coup
+  - How to Catch a Lab Leak
+  - How to Save Twenty Million Lives
+  - Bonus: 50 Thoughts on DOGE
+- Welcome to join even just for the reading list. Reach out to Sam at The Fitzwilliam
+
+Q2:
+Podcasts
+Movies
+Music
+Reading
+TV
+
+"The desire for recognition, and the accompanying emotions of anger, shame, and pride, are parts of the human personality critical to political life. According to Hegel, they are what drives the whole historical process."
+- Francis Fukuyama, The End of History and the Last Man
+
+"While Hobbes, Locke, and the American Founding Fathers like Jefferson and Madison believed that rights to a large extent existed as a means of  a private sphere where men can enrich themselves and satisfy the desiring parts of their souls, Hegel saw rights as ends in themselves, because what truly satisfies human beings is not so much material prosperity as recognition of their status and dignity."
+- Francis Fukuyama, The End of History and the Last Man
+
+"Recognition is the central problem of politics because it is the origin of tyranny, imperialism, and the desire to dominate."
+- Francis Fukuyama, The End of History and the Last Man
+
+Fukuyama theorizes that an approach to historical development via science or economics is incomplete, as countries like Taiwan or South Korea had economic development under autocratic governments, but still sought democracy. There's something deeper sought. His answer to this is Hegelian.
+
+ON BOMBING IRAN by Tanner Greer
+Tanner makes a point that it's generally a good move in life to pursue the maximal outcome you desire, even if you don't think you're going to get it.
+In the best case, you get what you want. In the worst case, you get more than you might get had you been more timid.
+
+Asks if this approach goes for geopolitics. Notes that this is how Donald Trump does foreign policy.
+
+Tanner doesn't have much confidence in regime disintegration. Points out that autocracy is deceptively stable; authoritarianism has been the norm of human governance for most of human history. Democracy is the outlier.
+
+If Trump doesn't accomplish his maximalist goal, how will the minimal goal lead to a change in Iranian behavior? Could they become more aggressive or recalcitrant? Could they do attacks on the American homeland? "In business, maximal ask shifts the bargaining range. In security affairs, a maximal ask can also shift the escalatory range."
+Every piece of munitions spent on Iran is a piece of munitions that can't be spent in the Asia-Pacific. Our industrial base to develop more munitions is atrophied. This only makes sense if we solve the problem now and don't need to come back.
+
+Oliver Sacks on Perception:
+"The astonishing thing is that even though we all have more or less the same perceptual apparatus, you and I can walk the same city block together and perceive entirely different pictures of reality, because what is salient to each of us is singular to each particular consciousness..." Perception is not a door, but a mirror - it reflects who and what the perceiver is, rather than a mere account of facts.
+
+State-Driven Nuclear Expansion is Winning Energy Race
+- The People's Republic of China (PRC) now commands the world's largest overall nuclear construction pipeline, placing Beijing on a credible path to surpass the United States in operable nuclear capacity before 2030.
+- Policy continuity—including the 2024 Energy Law, the 2025 Atomic Energy Law, the 14th and 15th five-year plans, and State Council approval—has allowed the PRC to mitigate the "cost escalation curse" that has haunted Western nuclear projects.
+- A lower cost of capital for state-owned developers, combining record-low sovereign bond yields, staged value-added tax rebates, a centralized "spent fuel" fund, and long-term power purchase agreements, has also helped support the sector's growth.
+- Provincial governments support rather than constrain the nuclear energy sector, integrating reactors into municipal heating grids, industrial parks, and regional tax bases. This, along with repressive responses to collective action, defuses most local opposition.
+
+There's a Kind of Madness in the Air:
+"For Trump's core supporters, the sense of belonging to a supportive and affirming community of shared belief and feeling is more important than facts and truth."
+The purpose of lies in an autocracy is not to deceive people, but to strengthen support for the autocratic leader through public demonstrations of fealty, of bending the knee. The function of 2020 election denial is not persuasion, but a signal of tribal allegiance.
+References Hannah Arendt's The Origins of Totalitarianism.
+
+Most countries achieve sustained growth in GDP per capita through export-driven growth. As their exports rise, productivity per worker increases—they buy better capital equipment (and eventually make their own), they get better at managing complex supply chains, and they expand into adjacent industries where they can add more value. This happens with companies as well: early growth is often associated with a rising headcount and rising revenue per employee, as the company simultaneously scales its business and gets better at efficient scaling.
+
+A side effect of modern education is the treatment of books as authoritative. The fact that something is printed in text that you can buy subconsciously makes you feel like it must have some merit. But that's not true. A book isn't correct because it's a book. Books get published all the time that are wrong. Sometimes books get published that are *catastrophically* wrong. A huge step in reading comprehension is learning to engage with books as an individual author's perspective in a larger dialogue with other books, rather than isolated entities.
+
+Japan increasingly influential in Asia following the Sino-Japanese and Russo-Japanese Wars.
+
+King Gojong proclaims Korean Empire in 1897. Annexed by Japan in 1910. KPG (Korean Provisional Government) formed in exile in China during period of Japanese occupation. Upon end of Japanese rule, split between Soviet-supported communist North and United States-allied capitalist South. First Republic of Korea formed in August 1948 under President Syngman Rhee, who ruled as authoritarian. Limited economic development and turmoil in the aftermath of the Korean War.
+
+Second Republic of Korea formed, establishing parliamentary government. Overthrown by the South Korean Army in a coup by Park Chung Hee. Economically irrelevant.
+
+Third Republic of Korea created by Park Chung Hee. State capitalist under the Democratic Republican Party (DRP), followed by the Democratic Justice Party (DJP). Growth attributed to:
+- Hard work of labor force.
+- Economic and technical assistance provided by Japan and the United States
+- Access to US and Japanese markets.
+- Acquisition of foreign currency.
+
+Land reform:
+Small number of wealthy landlords own the majority of the farmland with rentier farmers working and owning none of it. Paid 55%-60% of everything they grew and left with little after payment.
+- This is good for landlords, but bad for farmers because they're left with little disposable income to spend, and thus the economy can't work or grow in the middle and working class.
+
+Korean land reforms bought from landlords at forced prices and sold to farmers at below-market rate. Farmers paid back government over five years. Many of the landlord class bought the Japanese factories and industry that were being sold off and entered the business capitalist class. Turned the landlord class into a business elite that were more useful for capitalist development. Farmers incentivized to produce more because now they own the farm and get to keep the surplus of their labor.
+
+Agrarian subsistence agriculture - farmers own their land and grow enough food their own subsistence. People only grow what they need for their own survival. No industry because no capital to fund it and no labor to work.
+
+Need a legal system for recognition of private property. State-formation and legal infrastructure. Survey land, record ownership, enforcement of contracts, resolution of disputes.
+
+You increase agricultural productivity - literally the amount of agricultural product per worker per unit of time. With rising productivity, one agricultural worker can output what used to take four, freeing up hands to do other, more valuable work. In subsistence agriculture, this usually meant young children who can now attend school and gain skills. Schools are funded my state tax income.
+
+Telephone invented by Alexander Graham Bell (when? Probably sometime in the mid 19th century) and patented. Patents expire in early 1890s, leading to explosion in telephone competition. As a way of competing, the AT&T refused to connect to competitor lines, requiring subscribers to have multiple phone subscriptions and multiple competitor phones in their house. Weaponized infrastructure control over competitors.
+
+Federal communications authority of Congress. Mann-Elkins Act of 1910. Interstate Commerce Commission (ICC).
+
+...
+
+Starting my 1000 words for the day for Friday, May 8th, 2026. There's a news website called Puck that covers "the four corners of power" in the United States - Washington D.C. (politics), Silicon Valley (technology), Hollywood (entertainment), and Wall Street (finance). America's global dominance comes from the fact that these fours cities are so dominant in the major areas of human enterprise. Part of understanding America means understanding them and their history. I've thought about assembling reading some major canons from these super cities. I already have a Silicon Valley canon assembled, so I assembled ones using Claude for Washington, Hollywood, and Wall Street as well. The thing about Washington and Wall Street is that they're all very literate cultures. Most of their history and ideology is found in the written word. Hollywood - both music and film - is different, because their output is audio and visual. The canon of the music industry are the best-selling albums of all time, while the canon of the film industry could be considered the Academy Awards for Best Picture or other significant nominees. They all reference each other and are inspired by each other, revolutionizing different generations.
+
+Silicon Valley is a city of technology. From the American research university, Caltech, and the concentration of aerospace and defense industry here during the Cold War came the mass production of transistors and microprocessors, and eventually the computing and software revolution. It's interesting to note how the seeds of Silicon Valley had to come from two of the other cities. The defense industry was a seed from Washington, as the global ideological conflict between Washington and Moscow - capitalism and communism - drove a build-up of defense resources. Washington was also the first major buyer from Silicon Valley that helped scale up transistor production, kickstarting the industrial base that would be necessary to catapult into other business and eventually consumer markets. Wall Street gave their gift in the form of venture capitalist like Arthur Rock who provided essential seed funding for companies like Intel and Apple. Two of our three cities gave powerful resources to seed a fourth. However, this doesn't mean the rise of Silicon Valley was entirely planned by Washington and Wall Street, or that Silicon Valley was entirely dependent on them. What made the Valley successful was how quickly it developed its own ethos, and in many ways pitted itself as rebellious against that establishment. Rather than stay in the East where all the power and establishment was, you could follow the heritage of America and go West, young man, to find your destiny. Core elements of this ethos were inherited from the times witnessed. The speed of technological change gave rise to a faith in technology as something that could improve the human condition. Indeed, though this is something that Silicon Valley holds as unique now, it used to be something the entire country believed in the thralls of the Cold War. Spaceflight and dreams of colonizing the stars merged with the cultural height of science fiction to embed itself into the techno-scientific-optimist thesis. The rebelliousness combined with the capital and entrepreneurial spirit drove a libertarian streak into the sensibilities of Silicon Valley. Computing was the ultimate liberation of the individual over the established corporate behemoth or the big overarching government.
+
+Wall Street is a city I don't know much about. It began as a corner of New York City. New York City itself had already shown itself to be a powerful part of America, where significant acts going back to the Revolutionary era were centered. However, its position on the eastern seaboard and ports gave it a heavy geographical advantage to become the main port city of the new nation. This almost certainly fueled a commercial boom. Not only goods coming in, but goods going out certainly helped. It's only natural that a gravity well of commerce would become a financial capital as well. We've seen similar trends follow for cities like Hong Kong and Singapore, where being a transit hub or a canonical port lends itself to capital accumulation and financialization. Why it centered on Wall Street itself may be an accident of history. Perhaps there we banks here that made it easy to grow and agglomerate. The rising roar of the Twenties gave the fuel that furthered the rise and industrialization required more and more funding and it naturally came from the commercial heart of the country. An interesting question is how the city arose after the disastrous crash of 1929. That could've been it. Why wasn't it? Are powerful cities much harder to destroy than that? The Street felt quiet for the rest of the 20th century, although that doesn't mean it wasn't active. Many of the most powerful countries in America were born during this period and furthered by Wall Street. It wasn't until the deregulation of the 80s that the financial sector comes back into the picture, bringing Wall Street back into focus full bore and fueling the dot-com bubble, Silicon Valley as previously mentioned, the housing bubble and eventual crash, the startup rocketry of the 2010s, and now artificial intelligence. This is a city that prides itself on data, much like Silicon Valley, However, it also looks back much more than forward, trying to use previous experiences to steel themselves from present mistakes and how past data can inform present market decisions. Efficiency has also made itself the name here, much like Silicon Valley. The Valley and the Street are similar for being intensely rational places. However, the Street has a more buttoned-up, Northeastern feel. There is also a more human element, as deals are still structured by people and human rationality plays more of an activity in markets than in technology. The Street feels both older and less philistine than the youthful Valley. Proximity to Broadway and the old WASP elite makes Wall Street more based in the intellectual traditions of the founding. The Street has been through more than its fair share of public backlash, where the zeitgeist turned against it and saw it as the cause of the nation's ills. In this sense, Silicon Valley is still young, enduring perhaps its first real cycle of public contempt as social media and the AI bubble loom.
+
+...
+
+Physics, computer science, mathematics, liberal philosophy, literature, podcasts, art, music, film, cooking, religion, writing. Creative content:
+- Paper notes
+- Software
+- Blog posts
+- YouTube videos
+- Podcasts
+- Book reviews
+- Quarterly media reviews
+- Annual letters
+
+I don't know anything about physics. I guess I understand basic mechanics, but my knowledge is incredibly limited. I'm basically lost if I tried to solve any physics problem. I can solve LeetCode/programming problems. That's why I'm working through Serway and Jewett. I can learn chess or Go.
+
+...
+
+Yesterday, I did code review on the BVS E2E work and moved that through to QA, but looks like it bounced back for some changes. I guess Dan will speak to that during his update. I also reviewed DRGN-4178 and that's in QA. Was able to get 4139 into review and Dan left some comments on that, so I'm going to spend today responding to those comments and hopefully addressing the feedback pretty quick so that this story can move through. I'll also be available for reviewing anything that comes into that column to get stories across.
+
+The Effects of School Phone Bans: National Evidence from Lockable Pouches
+Impression: Seems to contradict the widely-held belief that school phone bans would improve academic performance.
+
+The worst part of dishonest people like Jesse Waters is that you can't even troll them, because they're stupid enough to believe that any troll is real and it will only further entrench their stupidity.
+
+What do I know about Mars?
+Mars is the fourth planet from the Sun, directly after Earth. This traditionally comes from the notion of the order of the planets by distance. However, this isn't always true, as there are times where Mars is closer to the Sun than the Earth is due to different points in their orbits. Together with Earth, Venus, and Mercury, Mars is one of the rocky terrestrial planets, in contrast to the large gas giants like Jupiter, Saturn, Neptune, and Uranus. It seems like the only two places in a star's orbit that rocky planets can occur is reasonably close to it, and far away from it in the icy recesses of space. Mars is predominantly red, due to the high amounts of iron oxide in its crust. The Martian regolith is toxic to plants due to perchlorate in the dirt, and its atmosphere is mostly carbon dioxide. Mars can be thought of as a desert planet, with little water except the tiny bit in its atmosphere and buried under its surface. The time to travel from Earth to Mars is about 6 months by normal human spaceflight. Some major landmarks on the surface of Mars are Olympus Mons, the highest mountain peak in the solar system, and Valles Marineris - a massive canyon that puts the Grand Canyon on the surface of Earth to shame. An open question in astronomy is whether Mars currently supports, or one point ever supported, life. It's possible Mars had large amounts of water in its past, but lost it due to events in space. For over a century, Mars has been a popular setting in pop culture as an alien world. Some of the most famous works are War of the Worlds, a story written by H.G. Wells where Martians attack London; Doom, an iconic video game from the 90s where a lone marine on a Martian station has to defend himself from demonic invaders from Hell and the popularizer of the FPS genre; and the Princess of Mars, also known as John Carter, where a Civil War veteran is sent to Mars and meets a Martian princess. In that universe, Mars is called Barsoom. A more recent work of literature is The Martian by Andy Weir, a more hard-sci realistic story where an American astronaut named Mark Watney is left on the surface of Mars after a sandstorm and stranded, left to fend for himself.
+
+Astronomy is one of the oldest sciences, originally used for navigation, cartography, astrology, agriculture, and calendars. Nicolaus Copernicus developed the heliocentric model that said the planets, including Earth, rotate around the sun. Started the Copernican Revolution.
+- What was the Copernican Revolution?
+How does the modern calendar work? How does it correspond to the astronomical positions of the moon and the sun. The harvest depended on the proper time of the year. Common modern calendar based on the Roman calendar. Originally a lunar calendar.
+
+Japan is a country whose transportation is dominated by rail, not just compared to the United States, but even relative to European countries.
+Japan's railway system is run by private companies, serving more passengers than any other country besides China and India. In addition to being private, it's immensely
+profitable, not being overly reliant on government support.
+Many try to explain this by comparing Japanese culture to American and European culture, drawing parallels and saying Japan is a more conformist culture. The article argues this is incorrect.
+The Japanese prefer their railways because the railways are simply some of the best.
+
+...
+
+It's impossible to escape AI. It's in the news, on your TV, in your feed, at your job, and potentially in your neighborhood in a data center. What effect will it have on our labor markets? Will it strengthen our democracy, or accelerate its dissolution? To whom will its economic fruits accumulate? All of these questions are tremendously important, and I don't want to minimize them. But I'm not going to talk about them today. There's no shortage of takes piling up to answer them, much of them written by people smarter than me. What I want to write about today is astronomy and artificial intelligence. Why?
+
+My earliest memories are tinted with my love for astronomy. It's one of the first things I can remember being obsessed with. In my grade school library, all of the space books were accumulated in one specific shelf. After acquainting myself with the rudiments of the Dewey Decimal System, I systematically worked my way down until I'd reached the end. Then, having run out of material, started over from the beginning. By 4th grade, I knew astronomical words and names I couldn't even pronounce. From the Pleiades to the Kuiper belt - I called it the "Kweeper belt" for far too long. It was my love for space, and the exhaustion of my school library, that drove me to explore the Internet. By the time I could navigate, Wikipedia was well-established and I could explore the depths of its articles, beyond even the basic books my library contained. My parents had cable so I could watch hours of the National Geographic channel and shows like Naked Science. I'm glad to say my passion hasn't diminished with age, and my growing capabilities have only accelerated the realms of the field I can profitably engage with. The spiritual dimension of space has taken a new foothold in my mind. The universe is vast and ancient, and astronomy asks questions of its origins, its functions, and our place in it. Are we alone? Could there be others like us? If and until the day comes that we hear from someone else, how should we treat each other?
+
+My fascination with AI came much later, after video games and Minecraft had drawn me to programming. I'd heard scripting and code mentioned before, but never taken an interest until a random inkling of curiosity drew me to it. Before long, I'd compiled "Hello, World" in Java and was off to the races. I majored in computer science in college, and my interest in Minecraft had drawn me to the algorithmic corner of YouTube that catered to it, including a channel called SethBling and a video he released in 2016 about a project titled "MarI/O" https://www.youtube.com/watch?v=qv6UVOQ0F44. In this video, he uses a generative algorithm to create the best possible neural network to complete a Mario level. I'd never seen nor heard of a concept like that before. This discovery came as the machine learning boom was gathering steam and spreading throughout Silicon Valley. In space, we search for intelligent life born from the universe. In AI, we try to create it at our desks.
+
+I don't want to consider whether LLMs specifically are conscious here. While interesting in its own right, I think that question is entirely unrelated to my interest in these two fields and what draws them together in my mind. How could artificial minds help us understand the cosmos better? Even if an LLM isn't a sentient agent, what could their nature tell us about ourselves, and by extension the universe we both exist in? They may not be conscious, but they're some of the closest analogues we've ever created. Like us, they're made of star stuff. Carl Sagan said we are a way for the universe to know itself. With AI, we have new partners in that knowing and new ways of perceiving.
+
+...
+
+"A temple is not an auditorium designed primarily for the convenience of a human audience: it is a residence of God, who is manifested on Earth through a consecrated image (mūrti) accommodated in the temple. Within Hindu theology, the sacred image is not a statue, but God's living presence, which the architecture of the temple is designed to revere. Its scale, masonry, and ornamentation collectively aim at creating a residence befitting the majesty of God, while generating the peace and tranquility associated with the divine."
+- Works in Progress
+
+I really like this philosophy. From a secular perspective, it mirrors the way I view the work I want to create.
+
+Advice from Virginia Woolf/Scott Sumner on writing:
+1. READ READ READ. Read everything, even irrelevant things. Never stop reading. Read in fields that feel useless. But become an expert in something.
+2. Write a lot. Practice makes perfect.
+3. Think of blogging as a conversation. Be aware of who you're writing for.
+4. A great novel or painting is a form of conversation. Artists react to other artists. A blogger should start by reacting to what others are discussing.
+5. Don't bury the lede. Give people an idea of where you're going early on.
+6. Avoid a literary style. Write as you speak.
+7. Is it possible I'll regret this? How might this post be misinterpreted? Set it aside for a day then reread before posting.
+8. Personality flaws are exposed in blogging. Writing makes them bare, but also possible to fix. Keep that in mind.
+9. Words have connotations as well as meanings. The term ignorant doesn't mean stupid, but has that implication. Be aware and state things clearly.
+
+Beliefs:
+- Healthcare & pharmaceuticals
+- Ukraine
+- Iran
+- Trump
+  - Donald Trump is a malignant narcissist with no respect for America's democratic or constitutional norms.
+  - His second presidency is the one of the most divisive, morally bankrupt, and lawless presidencies in American history.
+- Sportsbetting
+- Democracy/liberalism
+- Communism/socialism
+- Fascism
+- Social media and smartphones
+- Abundance
+- Rent control
+- Artificial intelligence
+- Immigration
+- Religion
+- Energy
+- China
+- European Union
+- Education
+
+https://x.com/boys_nicholas/status/2051207295728558281?s=20
+- We've reached Star Wars urbanist Twitter
+
+Daily Writing:
+Mars, "the Red Planet". Named after the Roman god of warfare. Desert-like terrestrial planet.
+Valles Marineris is a massive canyon on the surface of the planet. Mars has water underground and water
+in its atmosphere.
+
+History of Martian observation?
+
+I was originally interested in astrophysics and astronomy as a child. I used to watch so much space television, but I didn't understand anything about engineering or mathematics or physics or chemistry or cosmology needed to properly engage with the subject matter. Now that I have more math education and a degree in computer science, I should be able to use my knowledge for astrophysics and to build some projects. Claude has give me ideas of programming projects I can build while learning physics via Serway and Jewett. Once I have that knowledge, I can build some astrophysics software projects. I can also reimplement some mathematical and scientific computing libraries like NumPy and SciPy and Matplotlib. That will require learning more about computer science and computing fundamentals to use for computation of numerical problems. I can also use Claude as a tool for this research. There's also the electrical, mechanical, and aerospace engineering knowledge that can be grown. It also brings in some secular and religious philosophy, inspired by Sean Carroll, that I can write about, as well as the policy side of science and research. I can get side projects of woodcrafting, cloth-knitting, essays, cooking, music, and language.
+
+...
+
+It's time for my 1000 words a day challenge. I feel limited when I do this because I literally have nothing to write about. But I guess that's not really true. I can write about not knowing what to write about. So far it's been fruitful, considering I've just written 50 words about how I have nothing at all to write about. I wrote a few days ago about everything I know about Mars. There's not really much besides that I can write without learning a lot more about The Red Planet.
+
+This morning I read some more pages in Working by Robert Caro. Right now, he's describing how he first became fascinated by Robert Moses. Just as a side note, I think it's really interesting that both the author of the biography and the subject are named Robert. Just a point I think about a lot. He became interested in Robert Moses because he interacted - quite literally lived - in his life's work by living in New York City. Everything he knew about Robert Moses from the public was a corrupt, power-hungry, Machiavellian planner that demolished the lives of poor people in pursuit of his broader urbanist goals. However, in doing early research, he saw a side of Robert Moses that was promising, young, idealistic, and intelligent. He became obsessed with answering the question of how one became the other. I'm also in awe of how supportive of her husband's line of work Caro's wife is. It's actually shocking.
+
+Last night in Serway and Jewett was pretty boring. Nothing substantially complicated yet. The three fundamental quantities in physics are length, time, and mass. From these, we can obtain other derived quantities that are expressed in terms of the fundamental ones. In order to do anything of significance in physics, we need to be able to measure these quantities. That means we need to agree on a standard of measurement that everyone agrees on and that will be used in research, so that they can be easily reproduced. These standards of measurement should ideally be unchanging and constant throughout the universe. The system of measurement used (almost) everywhere on Earth is the SI or the International System of Units. The abbreviation SI comes from its French name (Systeme international). The units for the fundamental quantities in this system are the meter for length, the kilogram for mass, and the second for time.
+
+The important prerequisite knowledge for astrophysics is classical mechanics, general relativity, thermodynamics, optics, electricity & magnetism, and waves. Some quantum mechanics might come into play, and I'd be interested in exploring that eventually, but it's probably not important right now. James Somers believes that speed is important because speed trains your brain to think that something can be done quickly, which makes it want to do more of that thing.
+
+I think probably the best form of healthcare is a single-payer system. However, I think in the United States the most politically achievable option is a multi-payer system, with a baseline public health insurance system provided by the United States federal government and augmented by private insurers.
+- What makes that substantively different than the current United States healthcare system?
+- How do health insurance companies work? How do they make money?
+
+Pharmaceutical companies get a bad rap for the industry that they're in. We as a society ask pharmaceutical companies to create novel drugs for diseases we don't know even know are curable. We basically ask the pharma industry to do science and R&D for profit. Such an industry would need to charge high prices for their end goods just to remain solvent. Most of the players and actions taken by that industry reflect that reality. They're not excessively profitable on a risk-adjusted basis. If they truly were this money-printing field, public markets would invest in them to much more considerable degree. Ozempic is an example of people being grateful for pharma, while also criticizing it for things like vaccines that have saved thousands of lives. The FDA approves on average about 30 drugs every year, which almost certainly a fraction of the amount of drugs applied for every year. That's billions of dollars worth of R&D that go down the drain every year.
+
+The United States should support Ukraine in its war of defense against Russian aggression. There is no credible case for Russia to attack. Russia did not attack because of NATO expansion. Every negotiation prior to the war in 2014 showed that Ukraine was not ready for NATO membership. Every NATO member, including the prominent ones of France and Germany, agreed. It wasn't going to happen. Russia has done this with Ukrainian EU membership in the past. Russia is not concerned about NATO aggression. Russia is upset that more and more of its former Soviet republics are drifting away from its sphere of influence and into the Western one, which poses a direct threat to the model of the world Russia subscribes to. Every country has the sovereignty to do so, which Russia itself has recognized in the past.
+
+Liberalism is the best way to organize a political system. Even as I cover more astrophysics, computer science, philosophy, and mathematics, I still want a belief in liberalism to be one of my defining traits. Authoritarian regimes are the norm throughout human history. Although much of human innovation has come under autocracy, it's only under liberal democracy that the true heights of human achievement have been reached. Liberalism is the only system that allows people of different religions, cultures, languages, ethnicities, and beliefs to peacefully coexist. It allows us to change our government peacefully, rather than requiring coups or bloody revolutions. It keeps a government accountable to the people. It provides you with a system of rights that the government must abide by before restricting them from you, and a system for enforcing them. It protects minorities more than any authoritarian system. Following this makes me similar to Sean Carroll. There were a lot of computer science/mathematician philosophers throughout history as well.
+
+Iranian culture is beautiful. Incredible innovations have been made by Persian polymaths in philosophy, medicine, mathematics, religion, and jurisprudence. Avicenna showed us the wonder of the human body, illuminating the way with his Canon of Medicine for the Islamic and European worlds. The words "algorithm" and "algebra" were given to us by Al-Khwarizmi. The first woman to ever win the Fields Medal, the tragically late Maryam Mirzakhani, was Iranian.
+
+Understand the four centers of power:
+- Silicon Valley
+  - Easiest for me. I work in tech and follow the power-brokers in this sphere of the world.
+    - Silicon Valley canon
+- Hollywood
+  - Least familiar. I don't know anything about the functions of this area.
+    - Who are the big power players of Hollywood?
+    - Who are the biggest stars? Who are the biggest musicians?
+    - How does the music industry work? How does the film industry work?
+    - How are albums recorded? How are movies recorded?
+    - Is there a Hollywood Canon?
+      - What are must-watch films that influenced the form of modern Hollywood?
+      - What are must-listen albums that influenced the form of modern music?
+      - What are must-read books that cover the history and functioning of Hollywood?
+- Washington D.C.
+  - Second easiest. I follow politics incredibly closely. I don't know the full machinations of it, but
+  I do know a lot about policy-wonkism. I could learn more about the functions of Washington on a day-to-day and how
+  power works in that city.
+     - American history, especially recent American history.
+     - Get Claude to generate a Washington D.C. canon on how to understand the city, how it functions, and how it came to be.
+- Wall Street
+  - Third least familiar. I know somewhat about finance and economics. I read Matt Levine and Bloomberg. That's about it.
+    - Wall Street history.
+    - Major players on Wall Street.
+    - Major current assumptions.
+    - How did the current Wall Street come to be as it is? Why are those on top the ones on top?
+    - What are the must-read books that cover Wall Street?
+
+Projects:
+- Physics textbook
+  - Working towards astrophysics
+  - Comes with programming projects
+- Secular philosophy
+- Christian history/theology/philosophy
+- Islamic history/theology/philosophy
+- Jewish history/theology/philosophy
+- Buddhist history/theology/philosophy
+- Hindu history/theology/philosophy
+
+DAILY READING LOG:
+- https://scholars-stage.org/on-bombing-iran/ - Completed
+- https://3quarksdaily.com/3quarksdaily/2026/05/oliver-sacks-on-perception.html - Completed
+- Joseph Carlsmith website
+- https://www.thediff.co/archive/big-tech-at-the-end-of-history/ - Completed
+- https://jamestown.org/state-driven-nuclear-expansion-is-winning-energy-race/
+- https://3quarksdaily.com/3quarksdaily/2026/05/theres-a-kind-of-madness-in-the-air.html - Completed
+- https://www.thefitzwilliam.com/p/join-the-fitzwilliam-ai-circle - Completed
+- https://samenright.substack.com/p/links-for-april-85f
+- https://en.wikipedia.org/wiki/Claude_Shannon
+- https://paulgraham.com/hp.html
+- https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we
+- https://www.science.org/content/blog-post/latest-synthetic-automation-proposal
+- https://scholars-stage.org/china-and-the-future-of-science/

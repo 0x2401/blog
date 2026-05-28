@@ -1,0 +1,53 @@
+Daily Scratchpad 2026-05-28
+Society should, on the margin, be more religious. The fertility crisis is top of mind for most people, and many of the most fertile developed countries on Earth right now are religious. Religiosity doesn't have to come at the cost of social and civil rights; Israel has some of the most progressive LGTBQ policies in the Middle East. Same-sex marriage is trending in the right direction - right now, Israel doesn't allow it, but it does recognize rights of same-sex couples married abroad and has broad majority support. Women can serve in the IDF and work corporate roles. There are wage disparities, but that's probably an unavoidable consequence of higher fertility. They've beaten the US to the punch at having a female head of state, all the way back with Golda Meir.
+
+Read:
+Robotics
+- The Robotics Primer
+Video games
+- Pygame CE documentation
+Low-level programming, assembly language, robotics, rocketry/aerospace, operating systems, video games, command line utilities.
+
+India
+- History of India
+  - What even is the history of India?
+    - Colonized by the British Empire via chartered merchant companies. Inhabited by primarily Muslims and Hindus. Ruled by the British for almost a century(?) Protested for independence in the aftermath of the Second World War amidst broader decolonization. Eventually, Britain relented and granted Indian independence. Significant figure in this process was Mahatma Gandhi, a lawyer and political activist who engaged in hunger strikes to pressure Britain.
+    - Hindus and Muslims conflicted with each other. Eventual partition of India led to the creation of the modern Indian state, and Pakistan (which included what would eventually become Bangladesh.) The partition of India caused mass migration of peoples to either of the two new countries, causing millions of deaths.
+    - Modern India proceeded to grow. Had an aerospace engineer president. Now ruled by Prime Minister Narendra Modi. Under Modi's leadership, there have been significant crackdowns on the Muslim minority and democratic backsliding under the BJP.
+- Politics of India
+  - What are the politics of India? What are major issues? Major political parties? Issues currently facing the country?
+    - India is nominally a constitutional democratic republic. It has a president and a prime minister, but I'm not sure who has more power. I'm going to assume the prime minister is the head of the government with most governing power, and the president is the head of state with figurehead power. But how does that work with the old aerospace president? Did Modi change this?
+    - Gandhi was a liberal who believed in democracy. Potentially socialistic in his economic policy(?)
+    - Legislature, parliament, and judiciary?
+    - Major political parties are the BJP and the Indian National Congress, which was Gandhi's party.
+- Languages of India
+  - What are the major languages of India?
+    - Sanskrit
+    - Tamil
+    - Hindi? (Is that a language?)
+- Religion of India
+  - What are the major religions of India?
+    - Hinduism
+    - Islam
+    - At one time, Buddhism, although not anymore.
+- Economy * Culture of India
+  - Major actors? Major movie studios? Major musicians? Popular music? Artists? Literature? Video games? Scientists? Philosophers?
+    Technology?
+  - What are the largest companies in India? What is the Indian stock market and major stock indexes? What does India depend on for its economy?
+    Economic policies and outlook?
+    - There's a company called Tata?
+    - Professional IT services companies.
+    - More and more companies outsourcing their labor to India, or opening new offices in India.
+    - Significant Indian writers?
+      - Salman Rushdie
+    - Significant Indian scientists?
+      - Aerospace president?
+      - A Turing Award winner
+    - Significant people in business
+      - Former CEO of Twitter
+      - Balaji Srinivasan
+      - Satya Nadella
+      - Sundar Pichai
+      - Founder of Perplexity
+    - Bollywood
+    - Hanumankind

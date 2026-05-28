@@ -1,0 +1,50 @@
+Daily Scratchpad 2026/05/27
+
+The biggest source of my depression right now is that
+
+TIL:
+Chennai is the capital of the southernmost state of India, Tamil Nadu. It's also the home town of Perplexity AI founder, Aravind Srinivas.
+
+
+
+...
+
+It's a cool sunny morning in May. The weather outside is chill, but it will warm up as the day goes on and spring is giving way to summer. I said goodbye to Deanna and drove to work along my normal commute route. The highway was a bit busier than I expected and I'm not sure why. Maybe there was some kind of diversion on a different route that fed people to my usual highway. Along the way, I listened to an interview with Ric Elias of Red Ventures on Invest Like the Best. Red Ventures owns multiple media companies, including CNET. I'm in a bit of a meaning crisis right now personally. I don't really know what I want. I don't struggle for bills or paying for anything. I'm gainfully employed with upward mobility if I want it. I'm set to be married to my fiancee in September. I have family and a nephew. Why does it feel like it's not enough? I feel like I've wasted ambition or like I'm not doing anything lasting. I'm just living. I've been feeling the days going in and out, but never building towards anything and that's made me scared. Like I'm going to blink and 10 years of my life will disappear and I'll have nothing to show for it. I think that's my fear - that I'm static and not growing or learning. I don't know if I want to be a startup founder, stay in Kansas City or leave, deal with the family cost, what my great work is. I'm not creating or doing anything. I'm not working out. I'm not living an examined life.
+
+Dear Sebastian,
+
+You wrote a letter almost 5 years ago in response to CeltAtom. As I understand it, part of the letter was a meditation on Christian ambition. CeltAtom was troubled by the conflict of ambition, what is "proper" ambitiousness versus the sin of pridefulness? How big should the scope of his life be and should he aspire to something greater? Your advice to him was that it's not sinful to grow the skills you've been given, to prepare for Providence, and do greater things when God gifts you the opportunities.
+
+I'll be upfront with you and state that I'm agnostic. I was raised evangelical Protestant, but left the church at 17 due to disagreements with its social mores and perspectives on science. I understand you're Catholic, so religiously we're quite far apart. However, I've had problems as of late with similar questions to CeltAtom. I live in Kansas City and work as a programmer. I've been dating a woman for 5 years and we're engaged to be married in September. I graduated from a state engineering college with a good degree and GPA. Growing up, all I wanted was safety and security. I wanted to provide for myself independently. Needless to say, my life is a blessing and I've more than achieved my goal.
+
+But I still feel restless. Like if I were to live my life as I do now, move to a house, have a child, and pass on, that it would be a waste. That there would be something I'm missing. I'm afraid that I'd turn 80, look back, and see that I'd stagnated long ago. I'd see that time had passed me by and I'd done nothing with it. That I was the same person at 80 as I'd been at 29, stagnant for 50 years, but I'd used up the one life creation had given me and it was too late to go back. I think I'm partially afraid of this because it's how I feel about the last 20ish years. Like I could've done more if only I'd focused more, gone to a better college, gotten a better job. But I know these feelings are wrong. If you'll allow me to borrow Christian parlance for a moment, I believe Scripture would teach us that the path we've followed was the one God intended for us. To wish for a different path is wishing to be someone different than we are, and God made us exactly who we are to fit the shape of his purpose. Maybe the struggle I have are emotions you can relate to.
+
+All this is just longwinded context to say thank you. Your letter to CeltAtom didn't completely eliminate these feelings, but it certainly helped alleviate them. Understanding that the future is not ours to control, that all we can do is the best we can in our station and seek to develop the gifts we've been given. I know this a random emotional email to receive from a stranger, but I also believe in telling people when their writing has had a positive impact. I don't think bloggers receive that enough.
+
+Thank you for your time and best of luck with your school. I love what you're doing and hope you're successful beyond your wildest dreams.
+
+Regards,
+Aaron
+
+Subject: Thank you for your letter to CeltAtom
+
+Dear Sebastian,
+
+Almost five years ago, you wrote a letter to CeltAtom on the tension between proper ambition and pridefulness. Your advice - that developing the gifts one has been given and preparing for Providence is not itself sinful - has stayed with me.
+
+I'll be upfront that I'm agnostic; I was raised evangelical and left at 17, so religiously we're quite distant. But I've been wrestling with a similar worry CeltAtom described: that I'll reach 80, look back, and find I stagnated decades earlier or wasted my life. Maybe these are emotions you've felt at some point. Your letter didn't eliminate the fear, but it helped soften it. The future is not mine to control, and the work is to develop what I've been given within the station I'm in.
+
+I believe in telling people when their writing mattered, cause I don't think bloggers hear that enough. Best of luck with your school. I think it's great what you're doing.
+
+Regards,
+Aaron
+
+...
+
+How do rockets work? What is an oxidizer?
+
+...
+
+An oxidizer is something that lights other things on fire. I know that to be true. It helps with combustion. That's why oxygen is an oxidizer - because it fuels fire and helps it burn. It's some sort of chemical reaction.
+
+I feel a near religious/spiritual conviction that I need to learn as much as I can about the universe. Right now I'm starting with robotics.

@@ -1,0 +1,669 @@
+April 27th - May 1st, 2026
+What did I do this week?
+- AI SDLC OKR Contribution:
+  - Add integration test infrastructure with Docker Compose, Jest config, and databases for Bank Validation Service.
+  - Quality assurance on 7-day dependency cooldown.
+- Prod and staging deployments.
+- Responding to OpsGenie alerts.
+- Create story for S3 encryption drift in Dragon repos.
+
+April 28th, 2026
+RSS Reader:
+- Be able to replace NetNewsWire basic functionality:
+  - Can add and read RSS feeds from my current subscribed sources.
+
+Programming and computer science is instrumental. If it's truly instrumental, then I should try to find something else to learn about and then use my interest in that to come up with ideas for programming projects.
+- Create my own wiki software, like TiddlyWiki.
+- Build software for concepts in:
+  - Artificial intelligence
+  - Physics
+  - Mathematics
+  - Statistics
+- Reimplement scientific papers
+- Double-entry accounting bookkeeping software
+- CSV parser
+- Learn the Unix terminal, then reimplement the utilities.
+- RSS reader -- Completed
+- Personal arXiv database/browser
+- Supreme Court case database/browser
+- Bug tracking database
+
+Atari is a classic video game company, founded by Nolan Bushnell and Ted Dabney. Created Asteroids, Pong, and the Atari 2600. Employed Steve Jobs and Wozniak. Founded in Silicon Valley.
+
+Stewart Brand is a writer, environmental activist, and project developer. Co-founded the Long Now Foundation. Part of 60s counterculture. Inspired early Silicon Valley founders like Steve Jobs. Campaigned to have NASA release the Blue Marble photo. Met R. Buckminster Fuller. Assisted Douglas Engelbart with the Mother of All Demos. Sold the Whole Earth Catalog to communes in the late 60s and early 70s. Advocated DIY culture. Published Whole Earth Discipline. A cultural figure and techno-optimist in the field of technology and Silicon Valley. Influential without starting a company.
+
+Jaron Lanier is a computer scientist, futurist, and composer. Technological skill and programmer with interest in culture, music, and the arts. Worked at Atari, Silicon Graphics, and Microsoft.
+
+R. Buckminster Fuller was an architect, designer, writer, theorist, philosopher, and futurist. Dropped out of Harvard. Dedicated his life to creativity, engineering, and helping people. Developed projects. Spaceship Earth. A modern Benjamin Franklin.
+
+Vannevar Bush was an engineer and science administrator. Founded Raytheon, pressed to create the National Science Foundation, and wrote As We May Think.
+
+Ren Zhengfei
+Family was starving during famine. Created food distribution system and scavenged for food by himself. Was given scallion pancake by Cheng Yuanzhao. Studied for college examinations.
+Majored in building services engineering. Continued to study throughout the Cultural Revolution. Taught himself computers, digital technology, automatic control, logic, philosophy, and three foreign languages.
+Joined the PLA. Studied Maoist theory.
+
+April 21st, 2026
+Notice how you feel worse and more annoyed after doing that? Why did you check? Did it really make you feel better?
+
+GitLab CI/CD
+
+Docker & Docker Compose
+
+There are a lot of things in this world that want to waste your time. Many of them have billions of dollars and some of the most talented people in the world working on them. Be aware of that. Be conscious what you're spending your attention on.
+
+Westlaw is a legal research database. Westlaw is owned by Thomson Reuters, who also own the media org Reuters. Elon Musk in his infinite wisdom with DOGE, was going through the SEC's finances and he saw payments to Thomson Reuters and went full conspiracy mode and was like "oh my god the government is paying Reuters for favorable news stories" or whatever and terminated the contract. The problem is that that contract wasn't for Reuters the news agency. It was the SEC's Westlaw.
+
+April 20th, 2026
+Donald Trump is a more divisive President and has worse character than Barack Obama.
+- Did Barack Obama ever celebrate the deaths of American citizens?
+  - Repeat question over and over until answer.
+  - At this point, opponent will pivot from equating the two, to justifying why it's okay for Trump to celebrate them.
+    - You can justify it however you want, but the answer is no.
+
+April 17th, 2026
+iDubbbz used to be so funny. What happened? He fell so far.
+Anything creative I do for audience or money is the wrong motivation. It should be for the pursuit of creative expression, talent, and excellence. Anything else is just doomed to failure or disappointment. I write online not to be listened to by millions, but to get in touch with the right few thousands. I want to have a Rolodex of intelligent people to discuss intelligent things with that can benefit my intelligence or my career.
+
+...
+
+HTTP is a stateless protocol, meaning every request is independent of the previous one. From the server's perspective, three HTTP requests A, B, and C from the same user may as well be from three different users. This is a problem for applications that need to maintain consistent state across multiple requests, such as every single website with accounts ever. There are two ways of solving this problem:
+
+1. Sessions: You log in with your username and password. A server creates an entry in a database with a random string of characters as a unique ID and gives it to you. You provide that ID on every subsequent request, which the server uses to query the session table and recognize you. This is easy and simple to implement. The downside is that the server has to do a database query for every single request it receives, either from you or from other users. Also, if anyone ever steals that session ID, you're cooked.
+
+2. Tokens: Same approach as above, but trash the database. Replace it with a special token or document, signed by the server so you know it's legit. Every time you issue an authenticated request, provide the token. The mere fact of you having the token (ideally) means I know the claims contained within it (that you are who you say you are) are trustworthy.
+
+April 16th, 2026
+Docker is a containerization platform. Docker solves the problem of an application working on one computer, but not any others due to differences in installed dependencies, programming language/runtime versions, libraries, etc. Containers are isolated computing environments with their own networking, process table, and filesystem. Unlike VMs, containers do not have their own OS/kernel. Instead, multiple containers on a single host share an operating system kernel, managed by a container runtime, but isolated from each other.
+
+April 13th, 2026
+PAPER: COMPUTING MACHINERY AND INTELLIGENCE
+I. The Imitation Game
+Alan Turing proposes the question "Can machines think?" In order to answer it, we have to define "machine" and what it means to "think." Relying on common definitions for these words is unsatisfactory and opens up endless debate before we've even considered the original question. Instead, Turing sidesteps the issue by considering a different, related question.
+
+Turing proposes an "imitation game" where an interrogator (C) is put in a room separate from two participants: a machine (A) and a person (B). The goal of the game is for the machine (A) to deceive the interrogator (C) into believing that it is the real person, while the person (B) tries to help the interrogator discover which one is the machine. Can a machine perform this task in a way that consistently fools the interrogator?
+
+II. Critique of the New Problem
+Turing begins by addressing critiques of his new formulation, defending how it pertains to the original question.
+
+Actionable Habit:
+- Leave at least one comment on MRs when reviewing.
+
+Review of Sprint:
+- What did we get done this sprint?
+  - Transition digital wallet token state.
+  - Tech debt on S3
+  - Finalize decommissioning of CaaS Proxy Service
+  - Improve BVS logging
+  - Invoicing dependency updates
+  - Card Service tech debt and improvements
+  - RDS Postgres update
+  - Red Rocks bug fixes
+- What will we potentially get done this sprint?
+  - TBS data warehouse migration away from enterprise messaging towards API integration.
+  - Card Service DAST fixes.
+  - Red Rocks enhancements.
+
+Things that went well:
+- Velocity was good. We were more focused and aware of the status of the review column and tried to focus on getting things across that were already in dev.
+- Continued AI process improvements.
+- Tech debt improvements.
+- Continued success of ZDU script.
+- AVS direction thanks to Nick's spike work. Adjustments for AVS will hopefully not be super intense or require new integrations.
+
+Things that didn't go well:
+- Tech debt enhancement came at cost of lack of relevant OKR work.
+- Third-party blocks in Marqeta and data warehouse. How did we miss those?
+
+OKRs Next Sprint:
+- AI SDLC improvements for BVS.
+- Q2 Card Management provisioning work. Carryover from last quarter
+- Tech debt in next sprint.
+
+Next sprint is heavy on tech debt, AI SDLC, and Card Service carryover work. Not much progress on Incentive Billing and TBS migration.
+
+April 10th, 2026
+Things to do:
+- Create new stories for medium security vulnerability findings - Completed
+- Translate quarterly feedback into actionable habits - 
+- Review OKRs and contributions of current work to those goals. Where do we have to go next?
+- Refine and develop context around work coming up in the next sprint.
+- Summary point of what we completed this week.
+- Work on side projects.
+  - Professional journal.
+  - Work on order manager app.
+  - Create UTC to CDT/CST converter tool and write short blog post on it.
+  - Create basic setup of blog that can publish pieces.
+- Learn something new.
+
+April 9th, 2026
+Write-Ahead Logs
+Databases must keep data in main memory (RAM) for quick access. However, RAM is volatile - in the event of a crash or power interruption all data and any associated changes are lost. Secondary disk memory is stable, but at the cost of significantly slower access, making it unsuitable for performance reasons. Databases solve this my storing active data in main memory in the form of pages that they occasionally sync down to disk storage. However, this process can be slow due to varying data change sizes between commits and their distribution across the main memory address space. Additionally, power interruption or a crash while a page is being synced to stable storage can cause data corruption.
+
+Write-ahead logging (WAL) resolves both of these problems. A write-ahead log is an append-only list that lives on disk for crash recovery. Every operation that modifies data must be logged to the disk before any changes can be made to the associated pages. This means that database transactions are effectively committed by committing log records, not the entire pages themselves, saving what would be expensive fsync() operations for a later date while preserving durability. If the system crashes after the log entry but before the actual pages are saved, the system can reconstruct their state in memory on restart by simply reading the WAL. In order to do this, two rules must be enforced:
+- The undo rule means that no dirty page can be sent to disk before its associated log record.
+- The redo rule means all log records for a transaction must be saved to disk before confirmation of the commit is sent to the client.
+These two characteristics mean that WAL directly provides durability and atomicity, two ACID properties. The redo rule provides durability, because it ensures that no commit will ever be acknowledged without the data on disk needed to reconstruct it in the event of system failure. The undo rule provides atomicity, because the log records contain data about the previous state of the data, as well as the new state, allowing partially completed transactions to be rolled back using the log information. 
+
+...
+
+You may not care about politics, but politics cares about you. But the way you engage still depends on the manner in which it intrudes on you. Just because politics can affect the things you care about doesn't mean you have to care about everything political. You can care about it insofar as it impacts you.
+
+People go about their daily routine and don't often question the reality they live in. In Blade Runner 2049, Ryan Gosling lives in a dystopian sci-fi world, but a polluted Los Angeles in a slum apartment is basically his norm and he doesn't question it. The reality I live in is the same. Being disconnected from politics lets you live in this world that seemingly never changes. You can just go about your routine and never aspire to anything greater.
+
+April 8th, 2026
+Identity: Philosopher-writer with a specific interest in engineering and mathematics.
+
+As a TreviPay card program operator,
+I need digital wallet tokens to automatically reflect card status changes initiated in 3R,
+so that buyers whose cards are suspended or terminated cannot continue to use those cards via Apple Pay or Google Pay.
+
+Card status changes in 3R need to be reflected in digital wallet tokens for cards added to Apple Pay and Google Pay.
+
+April 7th, 2026
+Links:
+- https://lalitm.com/post/building-syntaqlite-ai
+Great article from a senior staff software engineer at Google on how he built a project using artificial intelligence and his thoughts on how to use it effectively. Notable bits are:
+> More importantly, I completely changed my role in the project. I took ownership of all decisions and used it more as “autocomplete on steroids” inside a much tighter process: opinionated design upfront, reviewing every change thoroughly, fixing problems eagerly as I spotted them, and investing in scaffolding (like linting, validation, and non-trivial testing) to check AI output automatically.
+
+And
+
+> AI turned out to be better than me at the act of writing code itself, assuming that code is obvious. If I can break a problem down to “write a function with this behaviour and parameters” or “write a class matching this interface,” AI will build it faster than I would and, crucially, in a style that might well be more intuitive to a future reader. It documents things I’d skip, lays out code consistently with the rest of the project, and sticks to what you might call the “standard dialect” of whatever language you’re working in.
+
+This fits how I'm starting to feel about AI. If you can explicitly define what you're looking for with a scaffolding, it's probably incredibly useful. Architectural decisions should still be made by the engineer. If you're writing a class and you know you'll need another class once you're done writing this one, write a set of test cases and a description and sic the AI on it. See how it does. In this way, you double your code output while still understanding how the codebase works. You're just writing it twice as fast and accomplishing a lot more.
+
+April 2nd, 2026
+Yesterday, I spent most of the day outside of meetings trying to chase down the cause of the failed account transition webhooks in Card Service beta. With Dan's help, I think I was able to narrow it down to basically the same cause as whatever is causing the Marqeta Virtual Wallet issue. So I'm going to go ahead and close those alerts since it seems like we have an investigation going on towards the root cause. So today, I will be starting on the PodDisruptionBudget story. I'm hope to read the story, understand the context, and at least make some significant implementation progress.
+
+**Self-pitying**:
+Write three sentences about losing something small - a coin, a glove. Make the rhythm mirror someone who can't stop talking about it.
+I can't believe I lost my favorite coin, the most important coin in the world, the coin my dad gave me right before he died. I need to get to class; I'm already 15 minutes late. But I can't keep going without that coin. That damn sewer grate. Why did I have to be so stupid?
+
+**Sardonic**:
+The crash happened before I even knew what was coming. I only remember the flashes. The light turned green. The big impact. Sky, ground. Black.
+
+...
+
+Q2 OKRs
+- AI SDLC
+- AVS
+- Digital Wallet
+- UA One-Time Virtual Card
+- Incentives Billing
+- Convert to Delve Endpoints
+
+April 1st, 2026
+The only religion that is threatened by science is dogmatic religion; the type of illiberal religion that seeks to silence its critics, reject rational argument, and prescribe its way of life as the only valid way and all others as heretical. It's the kind of religion that has fueled hypocritical judgement and boundless self-hatred. It's ripped apart families and smothered the human creative spirit. It is directly responsible for butchering millions in wars like the ones that took place in 17th century Europe.
+
+March 31, 2026
+HABITS
+- Wash face - Completed
+- Brush teeth - Semi-Completed
+- Eat three meals - Ate 1
+- Drink water - 
+- Walk for 30 minutes -
+- Read a book for one hour - 
+- Write for three hours - 
+
+System for learning
+- Spaced repetition
+- Notetaking
+- Writing to learn
+- Talk to LLMs (ChatGPT, Claude, Gemini, Perplexity)
+- Speechify to listen articles and books
+- E-Reader (Kindle)
+
+1. Early mechanical concept of a programmable machine (1830s–1840s)
+
+Charles Babbage: Designed the Analytical Engine, with a “store” (memory), “mill” (processor), and input/output. This is the first complete conceptual model of a general-purpose computer.
+Ada Lovelace: Described how such a machine could execute sequences of instructions and manipulate symbols. She articulated the idea of a program.
+Source: Encyclopaedia Britannica, “Analytical Engine.”
+
+2. Mathematical definition of computation (1930s–1940s)
+
+Alan Turing: Defined computation formally with the Turing machine and later designed the ACE (Automatic Computing Engine), an early stored-program computer. Established that a machine can execute any computable process via instructions in memory.
+Source: Encyclopaedia Britannica, “Alan Turing.”
+
+3. Logical and informational foundations (1930s–1940s)
+
+Claude Shannon: Showed that electrical circuits can implement Boolean logic and founded information theory. This made digital circuit design precise and scalable.
+Source: Encyclopaedia Britannica, “Claude Shannon.”
+
+4. Stored-program architecture (mid-1940s)
+
+John von Neumann: Formalized the stored-program concept, where instructions and data share memory. This became the standard architecture for general-purpose computers.
+Source: Encyclopaedia Britannica, “stored-program concept.”
+
+5. Early electronic and commercial computing + software abstraction (1940s–1950s)
+
+Grace Hopper: Worked on UNIVAC I and developed early compilers. Helped move programming from machine-specific code to higher-level abstraction.
+Source: Encyclopaedia Britannica, “Grace Hopper.”
+
+6. Transistor replaces vacuum tubes (1947 onward)
+
+John Bardeen, Walter Brattain, William Shockley: Invented the transistor. Enabled smaller, more reliable, lower-power computers.
+Source: Nobel Prize, Physics 1956 summary.
+
+7. Integrated circuit (late 1950s–1960s)
+
+Jack Kilby: Demonstrated the first integrated circuit.
+Robert Noyce: Developed a practical silicon-based IC with interconnects.
+Shift from discrete components to monolithic chips.
+Source: Computer History Museum.
+
+8. Scaling law and industry direction (1965 onward)
+
+Gordon Moore: Predicted exponential growth in transistor density (“Moore’s law”). Provided a planning target for semiconductor development.
+Source: Computer History Museum.
+
+9. Microprocessor (early 1970s)
+
+Ted Hoff, Federico Faggin (Intel 4004): Put a CPU onto a single chip. Turned the computer into a component that can be embedded in other systems.
+Source: Computer History Museum.
+
+10. Processor architecture optimization (1980s onward)
+
+John Hennessy, David Patterson: Developed RISC architecture principles. Simplified instruction sets to improve performance and efficiency.
+Source: ACM A.M. Turing Award materials.
+
+Computer engineering is the branch of engineering that focuses on computer hardware and software. Integrates electrical engineering and computer science.
+Computers are made out of electricity and silicon. The basic component of all computers is the transistor, which is simply an electric switch. A bunch of transistors
+connected together create logic gates. A bunch of logic gates together can perform mathematical operations, and a bunch of those together form the core of a CPU, which
+is the brain of every modern computer known to man. CPUs have control units that interpret commands called opcodes and direct other components of the CPU, arithmetic logic units that perform arithmetical and logical operations, and cache memory for quickly storing the results of intermediate computations while processing, or the location of the next command to execute. A computer at heart is simply giving a CPU access to more memory in the form of RAM or disk, perhaps GPUs for heavy image or data processing or artificial intelligence, and peripherals for graphics, control, input, and output.
+
+Before integrated circuits, electrical circuits were separate devices/components that all had to be wired together. This means they took up a lot of space, and as a circuit became more complex, the number of wires and connections grew exponentially. This was called the tyranny of numbers. It was buggy, messy, and a hard limit on the complexity and size of machines. Integrated circuits took all of the components and instead carved them into one piece of silicon or semiconductor material, allowing the work of an entire circuit to be completed by one component. Microprocessors take this one step further. The first CPUs would take memory, logic, and arithmetic modules - all separate integrated circuit parts - and wire them together, running into the same issue. The microprocessor put the entire CPU on one chip.
+
+March 19, 2026
+Write: Wrote "Our Story".
+Make: Wrote "Hello, World!" function/program in Python. Wrote v1 of temperature conversion program in Python.
+
+The Kingdom of France emerged from the rump state of West Francia. West Francia was the western part of the Carolingian Empire, formed under Charlemagne. Charlemagne's three grandchildren fought over who would inherit their grandfather's empire. As part of the Treaty of Verdun, the empire was divided into West Francia, Middle Francia, and East Francia. Middle Francia would split into separate kingdoms itself, before being absorbed by its eastern and western neighbors.
+East Francia became the Kingdom of Germany and eventually the Holy Roman Empire. Invasions by Vikings left the power of the kings of West Francia fragmented,
+leaving the realm closer to a tapestry of duchies. As the Carolingian dynasty died out, replaced by the Capetian dynasty and the emergence of the Kingdom of France, the monarchy attempted to consolidate power from the feudal lords. This process was incomplete and solidified into ancien regime that was toppled by the Frech Revolution.
+
+Liberalism is a political belief that focuses on individual rights, liberty, and rational government. Liberals believe power and political legitimacy comes from the consent of the governed, rather than any divine or hereditary source. From this belief emerge rights like freedom of speech, freedom of assembly, and freedom of the press to hold the government accountable. Liberty means the freedom to worship whatever god or force you see fit, or no god at all. It's not the place of the government to impose a religious orthodoxy on its people.
+Liberalism also tends to support private property and free markets, as a decentralized economic system puts economic power in entrepreneurs and market forces, rather than a bureaucratic state. Economic liberalization takes economic power out of the hands of the state, which further reduces its coercive power.
+
+Our Story:
+Aaron and Deanna both studied at Kansas State University, but it wouldn't be until after graduating and moving to KC that they would cross paths and find
+each other. Aaron was returning home, while Deanna was moving from Emporia. Both were starting their live and careers and looking for someone to share it with.
+Deanna thought it would take a few dates to find Mr. Right. Turns out it only took one. A first date at a coffee shop, a second downtown sheltering from a
+downpour, exploring an apple orchard, eating deep dish pizza, and watching the Chicago River turn green for St. Patrick's Day. Eventually, Aaron stayed over
+and never left. Deanna was happy. Her cat Ginger, not so much. Aaron listened to K-pop until he could sing the lyrics himself, while Deanna learned the names
+and faces of every Formula One driver. Five years, three apartments, a vacation to the ~Florida Keys~ Washington D.C., and a trip to Ireland later, Aaron took
+Deanna back to the place downtown where it all began and got down on one knee. The answer was yes.
+
+We're thankful to everyone who has taken this journey with us, supported us, watched us grow together, and realized how happy we make each other. We can't
+wait to celebrate with you all as we choose each other, now and for the rest of our lives.
+
+March 18, 2026
+Harvey Washington Wiley was the chief chemist of the Division of Chemistry of the United States Department of Agriculture. Conducted research into food and drugs in the American market. Used public outrage in the context of Upton Sinclair and the Progressive Era to push for federal regulation of food and drugs.
+
+1906 Pure Food and Drug Act/Wiley Act
+- Signed into law by President Theodore Roosevelt.
+
+March 17, 2026
+Content Is King by Bill Gates
+Bill Gates predicts in 1996 that content is where the majority of the Internet's value will come from.
+Thinks about the impact of the Internet on different forms of content (magazines, scientific papers, journalism, etc.)
+Announces the creation of MSNBC.
+
+> For the Internet to thrive, content providers must be paid for their work. The long-term prospects are good, but I expect a lot of disappointment in the short-term as content companies struggle to make money through advertising or subscriptions. It isn’t working yet,
+and it may not for some time.
+
+This section feels like it could've been written today. It goes to show how undeveloped the business model of the Internet still is.
+
+> A major reason paying for content doesn’t work very well yet is that it’s not practical to charge small amounts. The cost and hassle of electronic transactions makes it impractical to charge less than a fairly high subscription rate.
+> But within a year the mechanisms will be in place that allow content providers to charge just a cent or a few cents for information. If you decide to visit a page that costs a nickel, you won’t be writing a check or getting a bill in the mail for a nickel. You’ll just click on what you want, knowing you’ll be charged a nickel on an aggregated basis
+
+The issue of micropayments comes up. A problem Stripe was founded to solve and is still(?) working on. Definitely not solved within a year.
+
+Content is King
+- https://kyrgyzstan.unfpa.org/sites/default/files/pub-pdf/content-is-king.pdf
+
+...
+
+French Revolution: Revolution against the Kingdom of France.
+The Kingdom of France, or ancien régime as it was called, descended from West Francia. West Francia was one of the fragments of the post-antiquity Carolingian Empire, led by Charlemagne. Ruled by branch of Carolingian dynasty, which later grew into Capetian dynasty, and then branched into the Bourbons and Valois. Monarchy abolished during French Revolution.
+
+March 16, 2026
+The United States started as British colonies on the eastern coast of North America. Years of maltreatment and lack of representation in the British Parliament led to simmering tensions between the colonies and the Empire. Attempts to solve these problems peacefully failed, leading to growing revolutionary sentiment and a call for independence. King George rejected these calls and sent the British military, leading to the American Revolutionary War. The colonies were victorious, leading to the Treaty of Paris and the creation of a new country called the United States of America.
+
+The young republic struggled with debates over the balance of power between the states and the federal government. The first constitution, the Articles of Confederation, gave too much power to the states and left too weak a federal government, to the extent that it threatened the economy, territorial integrity, and sovereignty of the country. Destined for failure, a new Constitutional Convention began, declaring a new Constitution of the United States that was ratified, replacing the Articles and establishing the government we have today.
+
+The first president elected under the new Constitution was George Washington, Commanding General of the United States Army during the Revolutionary War. The country continued along with battles between the Federalists and Democratic-Republicans. Thomas Jefferson completes the Louisiana Purchase from France, growing the fledgling nation immensely. Conflicts with Britain lead to the War of 1812.
+
+Growing tensions over slavery eventually lead to the election of Abraham Lincoln, the secession of the Confederacy, and the American Civil War, won by the Union forces. Slavery was banned by amendments to the Constitution, but conflict over racial issues continued. An initial blossoming during Reconstruction was slowly and sadly rolled back due to resurgent white supremacy in the South. The Gilded Age as America industrialized grew the power of corporate entities and a business elite, as well as corruption among political machines. The dawn of the 20th century brought massive European immigration, growing the population and deepening the culture. Progressive forces sought to challenge the Gilded Age elite and growing power of corporate monopolies. Presidents like Theodore Roosevelt fought corruption and cronyism in the government and battled for better treatment of workers. The Spanish-American War brought new territories and continued US involvement in the affairs of the Western Hemisphere and South/Latin America.
+
+Woodrow Wilson would become the President as conflict in Europe between empires exploded into the First World War. Initially intent on remaining neutral and uninvolved, but sympathetic to the British, the United States supplied weaponry to the Allied/Entente forces against the Central Powers. However, German attacks on boats and propaganda eventually led the United States to enter the conflict. The Allies were victorious in a war that would destroy the Russian, German, Austro-Hungarian, and Ottoman Empires. Punitive measures were imposed on Germany as Woodrow Wilson sought to create the League of Nations and promote global peace. The good times and economic growth from the end of the war would eventually crash into the Great Depression, destroying wealth and bringing destitution to the world, including the United States. As the nation teetered on the brink of economic disaster, and extremist politics like communism and fascism began to grow, President Franklin Delano Roosevelt took office and ushered in the New Deal, creating massive government investment in the nation, establishing social welfare programs, and strengthening regulations on the financial sector. In Europe, the rising tide of fascism, the emergence of the communist Soviet Union out of Russian Civil War, and unresolved tensions from the end of WWI would spiral into territorial conflict and the fall of Germany's Weimar Republic to the NSDAP.
+
+Hesitant to engage in another bloody war so soon after the last one, European powers initially tried to reason with the far-right government of Germany, giving in to territorial demands and allowing it to grow in strength. However, the invasion of Poland by Germany and Russia on opposite sides proved that no amount of territory would ever be enough and Germany was intent on European domination. So began World War II and the conflict of liberal republican ideals versus far-right authoritarianism. Again, the United States sought to stay neutral The exception to the liberal republicanism of the Allies was the totalitarian communist Soviet Union under Joseph Stalin, who joined the Allied side after Germany invaded eastern Russia in Operation Barbarossa. The war was brutal, bloody, and marred by horrific crimes against humanity on both sides, namely the genocide of European Jews by Germany. Scientific advancement led to increase investment in technologies for warfare, such as bombs, airplanes, tanks, and guns. Most powerful however was the development in physics that led to the creation of the Manhattan Project and an arms race for a new type of nuclear bomb. The United States would win this race. The European theater of the war would soon resolve, as the massive human toll of invading Russia on the Eastern Front and the invasion of Normandy by the rest of the Allies on the Western Front stretched Germany to collapse. This left only Japan in the Pacific. The United States battled on the islands of Japan, until ending the war finally in August 1945 by dropping two nuclear bombs on Hiroshima and Nagasaki. Japan unconditionally surrendered.
+
+The end of war left the United States and the Soviet Union as the two sole world superpowers. Allied forces occupied Germany and Japan, and ideological differences between the authoritarian communist Soviet Union and the democratic capitalist powers of France, Britain, and the United States were heightened. Europe became a battleground as Stalin sought to seize territory and expand communist influence and the Soviet empire. Western democracies sought to stall that influence, splitting the continent in two between Western Europe, allied with the United States, and the Warsaw Pact, controlled by communist puppet governments of the Soviet Union. Germany was split down the middle into East and West Germany, separated by the Berlin Wall. Thanks to domestic US spying, the Soviet Union eventually acquired a nuclear bomb of their own. The destructive power of these weapons meant that conflict between the Soviets and the Americans could doom the entire human race.
+
+The end of the war led to a massive economic boom in the United States as soldiers returned from war, started families, and bought homes. The new technologies of war found domestic applications, easing life for the average American and bringing unprecedented prosperity. However, the good times did not extend everywhere. The Cold War, as it came to be called, heightened domestic paranoia over subversive communist influence. Some of these fears were legitimate, as the bomb proved, but others were entirely fictitious or weaponized for political purposes. The FBI and members of Congress like Joseph McCarthy dragged actors, musicians, activists, business leaders, scientists, and politicians into Congress. Phones were wiretapped. Mail was read. Careers and lives were ruined by mass violations of civil rights. Elsewhere on the civil rights front, African-Americans fought against repressive and racist Jim Crow laws that segregated people on the basis of race. African-Americans were routine victims of racial violence and white supremacy, especially in the South. A black minister and social activist named Martin Luther King Jr. would push for change on this front, eventually succeeding with the passage of the 1964 Civil Rights Act and more civil rights protections, as well as the end of segregation.
+
+John F. Kennedy would beat Richard Nixon in a close election in 1960, promising to put a man on the moon by the end of the decade as the Space Race between Soviet and American science sought to extend into the stars. Increasing tension between the two superpowers brought the world to the brink of nuclear destruction with the Cuban Missile Crisis. Kennedy's presidency would be cut short, as he was assassinated by Lee Harvey Oswald in 1963. The rise of East Asia and the new foreign policy of containment pulled America into wars in Korea and Vietnam. So soon after the end of the Second World War, young men would be drafted to fight in the swamps and jungles of against the communist forces of North Vietnam. Korea would split along the DMZ into the communist Democratic People's Republic of Korea and the Western capitalist Republic of Korea. Lyndon B. Johnson would pursue the Great Society, creating social welfare programs like Medicare and Medicaid. However, growing discontent over increasing American casualties in Vietnam and a new politically-active and leftist youth movement would sink his presidency and  Martin Luther King Jr. would be assassinated in 1968, setting off race riots across the country. All these forces combined brought Richard Nixon back from the wilderness, winning the 1968 presidential election and bringing Republicans back into power. Nixon would continue to pursue Vietnam and was a paranoid man. He would shock the world by opening relations with the communist People's Republic of China, seeking to capitalize on the Sino-Soviet split. The Pentagon Papers exposed the lies of the United States government and leftist resistance continued as the Cold War entered a period of detente. Nixon's presidency would be cut short by the Watergate scandal, leading to his resignation from office. Gerald Ford would take over and try to right the ship, but the damage of Watergate led to the election of Jimmy Carter in 1976. Carter's presidency would be scarred by economic malaise brought on by the 70s energy crisis and the Iran hostage crisis, as the Middle East and the Israeli-Palestinian crisis began to assert themselves as global influencers.
+
+Carter would only serve one term and lose to Republican Ronald Reagan in 1980. Reagan pursued conservative deregulatory and low-taxation policies, seeking to spur economic growth. These would be broadly successful. He would also take a more aggressive stance in foreign policy, invading Grenada and confronting the weakening Soviet Union. He would fund the Contras in Nicaragua using money from weapons sold to the Islamic Iranian government. He would call for the destruction of the Berlin Wall. He was criticized domestically for failing to respond adequately to the AIDS crisis. Reagan would serve two terms, leaving office in 1988 and being succeeded by his Vice President George H.W. Bush. Bush Sr. would oversee the collapse of the Warsaw Pact in 1989, followed by the Soviet Union in 1991, transitioning into the Russian Federation led by Boris Yeltsin and the post-Soviet states. He would also lead the U.S. and an international coalition into the First Gulf War, triggered by Iraq's invasion of Kuwait over Persian Gulf interests.
+
+Bush would be succeeded by Bill Clinton, a Democrat from Arkansas, who triangulated policy with a more conservative agenda than previous Democrats. Clinton would lead the United States back to a budget surplus, bringing increased wealth and prosperity as America entered the 90s. The software and computing industry in Silicon Valley would grow and come to dominate the United States economy as companies like Apple, Microsoft, Amazon and Google found their start. Clinton's presidency would be scarred by the Monica Lewinsky scandal, leading to his impeachment, but not removal from office. Clinton would serve until 2001, being succeeded by George W. Bush, son of George H.W. Bush. 9 months after taking office, America would witness its darkest day as terrorists attacked the World Trade Center on September 11th, 2001, triggering the global war on terror. Al-Qaeda, led by Osama bin Laden, would take responsibility. Bush's administration would lead the United States into an invasion of Iraq to topple Saddam Hussein on faulty intelligence and misdirection, as well as an invasion of Afghanistan to topple the Taliban government that was harboring Al-Qaeda. Iraq would last 8 years, while Afghanistan would stretch on for almost 20. Bush would win the 2004 presidential election against John Kerry. His second term would be criticized over the response to Hurricane Katrina. 2007 would see the collapse of the housing bubble and the Great Recession, threatening the entire global economy and the United States financial system. Bush would leave office incredibly unpopular, being succeeded by Democrat Barack Obama, the first ever African-American president, who won a landslide victory.
+
+Obama's first term would be dominated by the attempting to save the country from economic crisis, passing the Affordable Care Act, and killing Osama bin Laden. He would be attacked by vicious conspiracy theories on behalf of Republicans, claiming he was a Muslim and not a citizen. Republicans in Congress would stall and obstruct every piece of legislation he attempted to pass, leading to an expansion of executive power. He would defeat Mitt Romney to win a second term in 2012, overseeing the Arab Spring, the beginning of the Syrian Civil War, the Benghazi controversy, the Russo-Ukrainian crisis, the legalization of same-sex marriage, and the JCPOA (Iran deal) to prevent Iran from obtaining a nuclear weapon. He also normalized relations with Cuba.
+
+2016 would be the first election with wide-open fields from both parties, Democrats and Republicans. Democrats would face a conflict between a progressive wing led by Bernie Sanders and a more establishment Hillary Clinton. Republicans meanwhile rejected their previous neocon establishment in favor of Donald Trump. Clinton would be victorious in the Democratic primary, but would lose the general to Donald Trump in November. Trump's presidency was marred by controversy, polarization, conspiracy theories, conflict over Russian influence in his victory, and more. He would be impeached twice, once over a quid pro quo controversy in Ukraine and again due to his efforts to overturn the 2020 presidential election on January 6th. His presidency would be severely damaged in its end by the COVID-19 pandemic and his response. Trump would lose the 2020 presidential election to Joe Biden, Obama's vice president. Trump and his allies spread false conspiracies about the election being stolen and used many legal and illegal means to attempt to overturn it, leading up to the storming of the Capitol on January 6th by his supporters in an attempted coup of the United States government. He would fail however, and Joe Biden would take office, attempting to heal a divided country.
+
+Biden's presidency focused on helping the United States recover from the remnants of the COVID-19 pandemic. He would oversee distribution of vaccines for the virus, as well as economic stimulus to help get the country back on track. His stimulus would help the country recover from the pandemic strong, at the cost of a significant rise in inflation that soured voters. Biden's presidency was also harmed by the Afghanistan pull out that led to the quick collapse of the US-led government and the restoration of the Taliban. Putin would invade Ukraine in early 2022, seeking to topple its government. However, Ukraine would stand strong. The war would negatively impact the global economy due to energy prices however, worsening the inflation problem. Biden and NATO allies would provide weapons to Ukraine to defend itself. Biden's DOJ sought to indict and criminally prosecute Donald Trump for his crimes in relation to 2020, but would fail due to overt-cautiousness. Biden's age and a previous promise to only serve one term, as well as the sluggish economy during his presidency, hurt him in 2024. A disastrous debate performance led to him dropping out of the race, to be succeeded by his vice president Kamala Harris. However, Harris had been notably absent and out of public spotlight during his presidency. High levels of immigration, a sluggish economy, negative perception of Kamala Harris, and nostalgia for the previous years pre-COVID would propel Trump to a second term in the White House.
+
+Where we are now.
+
+---
+
+## March 12, 2026
+
+**9:33 CST**
+
+Didn't pay as much attention to standup updates from other team members. Should be able to summarize not just what I'm doing, but what every other team member is doing.
+
+---
+
+**9:36 CST**
+
+The VIRTUE for today is **RESOLUTION**. Resolve to perform what I set out to do. That means completing my goals for the day as I set them out in my notes.
+
+---
+
+**9:37 CST**
+
+The biggest indictment of Marxism is the failure of Marx's historical materialist prediction. The expected route is that an economy should go from feudal → capitalist → socialist → communist. This means the countries where communism/socialism should take over should be developed capitalist economies. However, the only countries that have ever embraced communism are poor, agrarian countries like 20th-century Russia and China.
+
+What role has communism played in Asia? Communism feels to Asia what Western liberalism is to Europe and the Americas.
+
+---
+
+**15:33 CST**
+
+I'm starting to feel like I have nothing to do. I still have a goal to accomplish, but I don't have much energy. Let's try getting up for a walk and see if that helps.
+
+- The next sprint will have dependency updates that will consume some velocity.
+- Red Rocks cutover is blocked by every other ticket in the epic. Deletion of V1 manual refund functionality.
+- My story is the last one in the Red Rocks epic besides the last two.
+- Card Service — Ability to order virtual cards and add to wallet — this OKR is pretty behind.
+- Most of our OKRs are near completion. We only have one sprint left. When we steer for the next quarter, I should participate in how that work is going to be broken down.
+
+---
+
+**15:58 CST**
+
+- 5-point stories with ambiguity and new situations. Take on ambitious stories.
+- Gain more experience defining complex work.
+  - Ambiguous stories.
+  - Look at OKRs and define/refine stories.
+- Put more notes on MRs. Leave more comments, even if just for clarification.
+- More communication around on-call and bugfixes.
+- Read more email to learn what's happening around the organization. Read other teams' work.
+
+---
+
+**16:23 CST**
+
+
+
+## Thursday, November 6, 2025
+
+Today has gotten off to a good start. Deanna was sweet this morning. Everything was calm and nice. I was pretty present on my drive to work. I got good sleep last night. I'm working through my daily feeds. I made an effort to not look at my phone this morning and it feels nice. I didn't check it until I got in the car to load up a podcast. I checked Discord once this morning and I won't check it for the rest of the day. In fact, I just put my phone in my backpack to prevent myself from having the temptation. Now I can get some more reading and writing done.
+
+Note that standup breaks focus. I got back from standup and spent around 30–45 minutes on Twitter. That context change immediately tempts me to check Discord, Twitter, Hacker News, etc. It's an automatic habit that consumes massive parts of my day. These visits to social media should probably be triaged to a specific time of day and not allowed to escape.
+
+I feel like if I don't watch something immediately, I'll never ever find it again in the infinite drudge of internet content. It's the definition of FOMO towards content. The Internet and modern social media is optimized for this feeling.
+
+I'm reading about the Industrial Revolution. Some of the earliest things we mass-produced were textiles, paper, and firearms. The processes we used to manufacture these probably carry forward to cars, semiconductors, airplanes, and pharmaceuticals. There's probably even implications for software engineering. I'm becoming more interested in how the basic things we did for survival scaled up into the mass industrial society we have today. The way we live today is almost unrecognizable. We're so abstracted away from those basic needs, but it all happened so incrementally. It's a system we rarely question. I wonder what people and ideologies played a key role in "raising our ambitions" so to speak. Industrial society also gave rise to political ideologies like the environmental movement/green politics, scaled up capitalism, and communism/socialism. It also connects with finance. What did the financial industry look like during the Industrial Revolution and how did it evolve into modern high finance? What are the origins of Wall Street?
+
+Philosophy was a hobby for many people throughout history. Aristotle, Epictetus, and Plato didn't have PhDs or academic appointments. They established academies and taught people lessons for a life well-lived.
+
+Donald Trump pardoning people like CZ and the Nikola Trucks guy is a threat to American financial dominance. If you're an investor, why would you ever trust your capital in a country where the President can just pardon people who steal your money if they cozy up to him enough? Investors and capital markets prefer stable countries that are well-managed, predictable, and transparent in their dealings. China meets these criteria. America under Trump seems to be abandoning them.
+
+---
+
+## Monday, November 10, 2025 — 14:45 UTC
+
+### Insulin
+
+**Etymology:** From the Latin *insula*, meaning "island." The name derives from the "islets of Langerhans" — little clumps of tissue in the pancreas that secrete hormones like insulin. These were originally observed by Paul Langerhans, a German medical student, in 1869.
+
+Insulin is an **anabolic hormone**, meaning it regulates the construction of more complex molecules from simpler ones, rather than the other way around. Anabolism — the process of synthesizing larger molecules from smaller ones — is the opposite of catabolism, breaking down complex molecules into simpler ones. Together, they form the two functions of metabolism.
+
+Encoded in humans by the **INS gene**.
+
+**Function:** Regulates the management of carbohydrates, fats, and protein by the body. Insulin encourages absorption of glucose from the blood into cells of the liver, fat, and skeletal muscles.
+
+> *Q: How does this occur?*
+
+**History of Insulin:**
+
+- George Ludwig Zuelzer achieved partial success in treating dogs with pancreatic extract.
+- Nicolae Paulescu developed an aqueous pancreatic extract that normalized blood sugar of a diabetic dog. Published *Research on the Role of the Pancreas in Food Assimilation*.
+
+---
+
+If humanity ever encounters aliens, what differentiates us by definition will not be our buildings or engineering or any of our technology — it will be our very nature as humans.
+
+It sounds like a vapid truism, but a key theme of the late 2010s and now mid-2020s is our material abundance, but spiritual vacuity. No amount of tech accelerationism can change our fundamental need for dignity, community, security, recognition, and expression. If anything, Silicon Valley has spent the past decade attempting to supplant these warm human feelings with the cold machinery of social media, algorithms, e-commerce, and now artificial intelligence. And yet we seem destined to drown in the slop, be consumed by our anger, and debase ourselves with our vanity. If you're seeking the root of our current cultural backlash against tech, this is it — an industry that promised so much, but failed to deliver.
+
+People feel that the promise of technological change and societal reordering was just a new face for a familiar rapacious and exploitative capitalism. This lack of humanity isn't limited to the products themselves. When we look at the people tech idolizes, we don't exactly find warm, compassionate individuals. The best are cold and cynically calculating like Zuckerberg and Altman. Zuckerberg robot jokes are practically a cliché. They talk regularly about their desire to keep accelerating, to escape death, to merge with AI. Not only are they not human, they seem in a hurry to ditch their humanity. The worst are the proudly, performatively cruel — figures like Andreessen, who picks fights with the Pope, or Elon, the very definition of a man with everything and yet nothing.
+
+---
+
+**Leo Tolstoy** — a well-regarded Russian writer, commonly called one of the greatest authors of all time. Famous works include *Sevastopol Sketches*, *War and Peace*, *Resurrection*, and *Anna Karenina*. He also wrote *The Death of Ivan Ilyich*, *Hadji Murat*, and *The Kreutzer Sonata*. Became a Christian anarchist and pacifist as a result of literally interpreting the teachings of Jesus during the Sermon on the Mount. He wrote about these ideals in *The Kingdom of God is Within You*, which inspired activists like Gandhi and Martin Luther King Jr.
+
+> Writing and philosophy is the foundation of all knowledge. The sciences were originally called natural philosophy.
+
+---
+
+## Wednesday, November 12, 2025
+
+I really hope humans aren't getting dumber. I feel like that could send us down a dark path to the end of civilization, where we become so stupid we can't even help ourselves — like civilizational hypoxia.
+
+I'm interested in fashion and the culture of clothing.
+
+---
+
+I woke up at a decent time. It's currently 5:37 AM CST. A new day is upon me. It's another chance for me to make things right — another chance for me to make the right choices, do the right thing, increase my knowledge, and create something for the world.
+
+I woke up this morning with some words in my head. They're part of a political speech a president could give that would likely help his chances:
+
+> *"America is founded on the idea of diversity. Diversity of background, race, ethnicity, gender, experience, sexuality, and religion. Part of our heritage as a nation is making amends for what we've done wrong in the past when we've failed to live up to our creed. However, we're also a nation founded on diversity of thought, and for too long people's thought has felt restricted. People have felt like they have to walk on eggshells, be careful what they say, like they can't joke around, or been told that they're somehow intrinsically racist. That's not right. That's not how we achieve equality. We achieve it through love, compassion, understanding, and difficult but respectful dialogue."*
+
+I feel like a president that gave that speech would gain a huge advantage in the Democratic primary. Writing that out definitely spun up my thoughts so I have to wind them down now. I have to stop this pacing habit I have where I get up from my computer and walk around for no reason. I don't know why I do it, but it hurts my productivity sometimes.
+
+**Today's goals:**
+
+- Do some LeetCode
+- Read something about computer science
+- Write some non-work-related code
+
+Plan: LeetCode for 25 minutes → read a Wikipedia article about something in computer science → code in the evening → skim news and magazines → read two *Works in Progress* essays.
+
+---
+
+Writing like this is definitely helping me relax a lot. I feel very relaxed right now — quite meditative. Like I'm focused only on the words I'm currently typing and nothing else.
+
+How has clothing been manufactured in the past? Most of it was made by hand at home with no concern for style, because its primary purpose was function. What was the earliest sign of the fashion industry? What were the first fashion publications? Who was the first fashion designer?
+
+I finished Byrne Hobart's article on the 30-year mortgage. His perspective is quite dim, so it's probably advisable to find an alternative, more favorable description. However, this idea is now incredibly interesting to me. I've watched *The Big Short*, but it's probably worth a rewatch. I've never seen *Margin Call*. Researching the history of mortgages in the United States, how the housing market has gone, and how it works in other countries could be good. Points of interest would obviously be 2008, as well as the Japanese real estate bubble of the 80s and recently China. I might also read that *Heat Death* article by Jeremy Neumann. It's also worth studying the current structure of the artificial intelligence industry and its history.
+
+---
+
+**Completed 10 minutes of reading.** I need to up that time starting next week to 15 minutes.
+
+**Goals at work today:**
+
+- [x] Get reason ID filtering merged into develop
+- [x] Fix OpsGenie failed Lambda alerts; resend messages or fix data consistency *(messaged VET to resend messages)*
+- [x] "On the landing page (Active Risk tab), when the user clicks on the action menu (three dots) and selects 'Archive', the record will be marked as Archived, and it will show up in the Archived section on the UI"
+
+I completed my LeetCode studying for the day. Now I just have to read something about computer science and understand it, then read some essays.
+
+---
+
+### Merkle Trees
+
+Tree data structures have two types of nodes: **leaves** and **inner nodes**. Leaves are nodes with no children — nodes at the very bottom of the tree. Inner nodes are nodes that have at least one child node.
+
+In a **Merkle tree**, the leaves are hashes of some type of data, while inner nodes contain hashes of their child nodes. In essence, the leaves contain hashes of some data, their parents contain hashes of the leaves, *their* parents contain hashes of those hashes, and so on — until the root of the tree contains a hash of the entire tree. This creates a chain of hashing and integrity throughout the tree. It would be impossible to change the data in the leaves without invalidating the entire tree up to the root.
+
+This provides computational advantages, since trees are more time- and space-efficient than list-oriented structures. Merkle trees allow efficient and secure verification of the contents of a large data structure. Due to their logarithmic complexity, verifying that a particular piece of data is part of a Merkle tree requires computing an amount of hashes proportional to the logarithm of the number of leaves in the tree.
+
+Another way of saying all of the above: the root node of a Merkle tree is a *commitment*, and Merkle trees allow efficient verification that certain leaf nodes are part of that commitment.
+
+**Merkle trees** are named after Ralph Merkle, their inventor, who patented the concept in 1979.
+
+---
+
+### SSH on Windows
+
+You can use SSH on Windows by downloading an open-source client called **PuTTY**. You can find it at [https://putty.software](https://putty.software).
+
+> **Note:** If you Google "PuTTY", you'll often get `www.putty.org` as a result — sometimes even as the top-ranking result. This website is **not** affiliated with the PuTTY developers in any way. It's being squatted by a bad actor. Recommend blocking it from your search results.
+
+---
+
+People are incredible in their ability to acclimate. If artificial intelligence were deleted from existence tomorrow, there are millions of people that would be losing their minds and frankly wouldn't know what to do with themselves — but absolutely none of them would stop to realize that they're freaking out over a technology that didn't exist 3 years ago. That acclimation leads to a sensation that we're standing still, even when we're massively moving forward.
+
+What it also leads to is an implicit increase in expectations, even though it feels like you're asking for the same thing. Young people are upset that they can't afford houses that their parents and grandparents had. One thing they're not accounting for is that the houses their parents and grandparents had are nothing like the houses we have today:
+
+- Nobody had internet until the 1990s, but nowadays every house needs an internet connection.
+- The houses Americans had in the mid-20th century were ~900 sq ft. The median square footage now is **2,233 sq ft**.
+- Central residential air conditioning didn't exist until the 1950s–1960s.
+- All of those old houses had asbestos.
+
+Another problem is social media. It's really easy now to complain about problems to thousands of people, it's really easy to log on and hear people talking about all sorts of problems — and if you've never heard these problems before, you think the world is in crisis when it's really just business as usual.
+
+A common talking point on social media: *"It used to be possible to have three kids, a car, a house, and send all your kids to college debt-free on one income."* That has **never** been true in the history of the United States of America.
+
+I think Americans could do with a huge dose of gratitude. Trump recently proposed a 50-year mortgage. The amount of financial engineering, government subsidization, and favorable tax regime nonsense that goes into making even the **30-year mortgage** possible is insanity — and it's something uniquely American. They don't have 30-year mortgages in Japan, Germany, Britain, France, Italy, or China. The idea that any financial institution, even with a home as collateral, would give mortgages to basically anyone with a job *absent* government incentives and intervention is insanity.
+
+> A temporary restraining order (TRO) is an *extraordinary* step that you're asking the court to take.
+
+---
+
+When you really learn the history of the American Civil War, the disrespect of flying the Confederate flag takes on a whole new dimension. Modern Southern Republicans will call themselves the "Party of Lincoln," blissfully unaware that the only reason many of their grandfathers survived to give lineage to them is because of Lincoln's divine grace. Make no mistake — by the standards of war at the time, Abraham Lincoln would've been well within his rights to order the public execution of every Confederate politician and general. However, in an act of divine grace and putting his country over vengeance, he showed them mercy. And how do they repay him? By flying the flag of traitors and trying to rewrite history — because they started a war they couldn't win over the right to own human beings as property.
+
+---
+
+I haven't written as much today. Last night, I read a comic that Gleech linked about multiple "lives" people live. It takes 7 years to master something, so after age 11 you have 11 seven-year "lives" to master whatever you want. I'm currently 3 years into my second 7-year life. I've spent most of this life learning computer science and software engineering. I think I can spend the rest of this "life" with computer science and software — and possibly add mathematics. My next life I want to focus on either literature & language or philosophy. I'm also interested in music.
+
+**Domains of mastery (aspirational):** Computer science · Mathematics · Engineering · Philosophy · Music · Literature
+
+Apparently there are a lot more sites like Gwern — people with encyclopedic interests.
+
+---
+
+Gwern does **Long Content** in the form of writing/essays. His essays aren't static objects, but written works that improve over time. Software naturally follows this trend, ideally improving with each new version. I'd like to approach software in this way — **"Long Software"** meaning software that improves continually over time. Software is a form of literature. What would it be like if a programmer won the Nobel Prize in Literature for software? I'd like to build artistic pieces of software that are readable, efficient, aesthetic, and functional. That doesn't necessarily lend itself to a for-profit model.
+
+---
+
+**Linus Torvalds** wrote the Linux kernel as a computer science student at the University of Helsinki. He developed a side project inspired by Unix for a personal computer. He started with a task switcher in Intel 80386 assembly language and a terminal driver.
+
+---
+
+Just finished reading an essay by **Joan Didion** about self-respect. It's an interesting piece of writing about the philosophy of life — not self-help, but a sober meditation on a specific nature of humanity. I need to do better about keeping a diary. Even my mundane thoughts need to be recorded. Not everything has to be about maximizing insight per word.
+
+> *"To be a moral human being is to pay, to be obliged to pay, certain kinds of attention."* — Susan Sontag
+
+Being a moral human being requires taking into account the subjective human experience of other people. Therefore, being moral requires the very opposite of self-righteousness.
+
+At what point does one read too much? At what point does one consume too many books and engage in literary culture to the degree that it becomes your entire identity? Can you live too long in the world of big ideas and forget to appreciate normality and the small ideas of the world?
+
+Why are books such a uniquely powerful medium? Why have they survived so long? One argument is that writing has staying power that oral cultures do not. For most of human history, the *only* way to record something was to write it down — on paper, clay tablets, or some other medium beyond immediate experience. To record a podcast, you need microphones, headsets, and storage devices. Video is the same. To store writing, you need only language, a stick, and some clay.
+
+> *"A great writer of fiction both creates — through acts of imagination, through language that feels inevitable, through vivid forms — a new world, a world that is unique, individual; and responds to a world, the world the writer shares with other people but is unknown or mis-known by still more people, confined in their worlds: call that history, society, what you will."* — Susan Sontag
+
+This quote reminds me of the rationalist idea that **"the map is not the territory."** Every impression we have of what is objectively true is merely a model we have formed in our minds. We must always keep that model and our impressions separate from the true nature of the thing itself. When you write both fiction *and* nonfiction you are creating worlds. Nonfiction that alleges to recount "objective historical facts" really recounts those events through the lens of its author, the forces around them, and society at large. That doesn't mean it's wrong or that nothing can be effectively true — but we should never forget that distinction.
+
+---
+
+### OneTab Snapshot
+
+Looking at my OneTab. These are the titles I see in just one area:
+
+- Silicon Valley — Wikipedia
+- Alien and Sedition Acts — Wikipedia
+- Norse mythology — Wikipedia
+- *Dune* (novel) — Wikipedia
+- Go (game) — Wikipedia
+- Franklin D. Roosevelt — Wikipedia
+- Miyamoto Musashi — Wikipedia
+- About This Website · Gwern.net
+- Math — Susan Rigetti
+- Philosophy — Susan Rigetti
+- Reflecting on one very, very strange year at Uber — Susan Fowler
+- Archives | Slate Star Codex
+- Essays — Paul Graham
+
+There's so much information to know just in these few links. The world is brimming with history, science, philosophy, technology, literature, art, and complexity.
+
+---
+
+### Read Something Wonderful Notes
+
+**Teach Yourself Programming in Ten Years** — Peter Norvig asks why everyone is in such a rush to learn programming. In 24 hours, you can't possibly learn the strengths and weaknesses of a programming language, learn from experienced developers, work in a mature codebase for that language, etc. Bad programming is easy to learn quickly. Good programming takes time.
+
+---
+
+### Beliefs
+
+- **Liberalism**
+  - Freedom of expression
+  - Freedom of religion — people should have the right to worship whatever god they choose, or worship none at all
+  - Freedom of association
+  - Privacy
+  - Government accountable to its people
+- **Social Capitalism**
+- **Moderate Techno-Optimism**
+- **Agnostic**
+
+---
+
+Clay Shirky writes about **"situated software"** — designed for a few users with shared context rather than the typical web model of scaling to potential billions. Provides certain advantages: shared assumptions, better systems of trust, less attention paid to scaling concerns, etc.
+
+---
+
+Freedom of expression is one of the foundational freedoms of an open society. Note: I've chosen the word "expression" instead of "speech" intentionally. Speech is an important part of expression, but it's also just that — a part. There are many more ways of expressing yourself besides speech that should also be free: writing, art, music, film, sculpture, architecture, etc.
+
+Freedom of expression is important for a few reasons. First, a government cannot be accountable to its people if those people don't feel free to criticize their government. Accountability requires the freedom to criticize, as well as the freedom to discuss potential solutions.
+
+The second reason is more philosophical: expression is core to the human experience and the advancement of human society. Everything around you — the cars you drive, the buildings you inhabit, the signs you see, the businesses you transact with — are all expression. Expression is what differentiates cultures. The most powerful companies in the world, like Google and Apple, are expressions of the people who founded them. The nation itself is a collective expression of its citizens and their values.
+
+Is it any wonder that some of the most oppressive societies in history — the Third Reich and the Soviet Union — had such awful aesthetics? The dystopian Soviet architecture, blocks and blocks of the same building copy-pasted over and over. These are living examples of human individuality crushed in the interest of the machinations of the state.
+
+---
+
+**Things to Read/Do Tonight:**
+
+- LeetCode / NeetCode
+- Napoleon Bonaparte
+- Bell Labs, Ma Bell, AT&T Bell Company
+- American literature
+
+---
+
+## Thursday, November 20, 2025 — 8:02 AM CST
+
+Woke up and realized it was 6am instead of 5am. Deanna didn't go to the gym because she's still feeling sick. So far I'm healthy, so I hope I stay that way. I read on my phone some information about tuberculosis and the ways it's influenced human culture. Then I got up, got dressed, and left for work around 7am with Deanna. After arriving at work, I got some breakfast, sat down, and opened Google. I read a few Reddit threads about the possibility of faster-than-light travel, then opened Twitter. I also spoke a little with Ryan Donnard and Cindy.
+
+I was inspired to write this diary entry by Henrik Karlsson. My goals today are to get that archive/unarchive story finally through, get my secret backup story through to QA at least, and find out why this cardholder bug is occurring. I should set a timer for Twitter so I don't get distracted for too long.
+
+The current social norm is to be anti-social media. However, in the right hands, algorithms can be incredibly useful for discovery and curation. If you want to write about something, you can quickly tune a content algorithm that delivers everything about that topic to you. We simply have to teach responsible use and inculcate cultural norms against the negative effects.
+
+I used Twitter today. Dammit. Another potentially useful morning of my life lost. Why do I do this to myself? What has it ever gotten me besides anger and frustration? In the years I've had Twitter, has it ever done anything for me? What has it given me? Maybe I'm just not using it correctly?
+
+I need to stop letting the stupidity of the world bother me. I've spent my teens and twenties trying to convert people from foolish beliefs. I'm increasingly realizing that this is a fool's errand. It's a crime to give up on the art of persuasion, but it's wrong to base your worth on your ability to change minds. Simply put, you have no control over whether or not someone else changes their mind. All you can do is try to assemble the best arguments, shaped by fact, narrative, and rhetoric, and give them to the widest audiences. These should be my north stars — assemble knowledge, form it into a model, compress that model into good, well-structured arguments, and give them.
+
+Writing is very effortless for Tyler Cowen. He seems to have trouble *not* writing. I think if I change my mindset, I have a similar thing. I have a lot of thoughts. I just need to start writing them down more frequently than I do. I guess this is what I'm doing now.
+
+---
+
+## Wednesday, December 24, 2025 — 15:27 CST
+
+### History of the 2000s
